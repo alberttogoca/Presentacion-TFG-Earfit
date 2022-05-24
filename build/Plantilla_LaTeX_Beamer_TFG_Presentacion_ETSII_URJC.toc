@@ -1,6 +1,17 @@
 \babel@toc {spanish}{}\relax 
-\beamer@sectionintoc {2}{Objetivos}{3}{0}{1}
-\beamer@subsectionintoc {2}{1}{Sub sec 1}{4}{0}{1}
-\beamer@subsectionintoc {2}{2}{Sub sec 2}{6}{0}{1}
-\beamer@sectionintoc {3}{Desarrollo}{8}{0}{2}
-\beamer@sectionintoc {4}{Resultados}{10}{0}{3}
+\beamer@sectionintoc {2}{Introducción}{3}{0}{1}
+\beamer@sectionintoc {3}{Objetivos}{4}{0}{2}
+\beamer@sectionintoc {4}{Metodologías}{5}{0}{3}
+\beamer@subsectionintoc {4}{1}{Design Thinking}{6}{0}{3}
+\beamer@subsectionintoc {4}{2}{Lean Startup}{10}{0}{3}
+\beamer@subsectionintoc {4}{3}{Scrum}{11}{0}{3}
+\beamer@subsectionintoc {4}{4}{DevOps}{15}{0}{3}
+\beamer@sectionintoc {5}{Desarrollo del Software}{18}{0}{4}
+\beamer@subsectionintoc {5}{1}{Tecnologías}{18}{0}{4}
+\beamer@subsectionintoc {5}{2}{Arquitectura}{19}{0}{4}
+\beamer@subsectionintoc {5}{3}{Estructura de Archivos}{20}{0}{4}
+\beamer@subsectionintoc {5}{4}{Detalles de Implementación}{21}{0}{4}
+\beamer@subsectionintoc {5}{5}{Progressive Web App}{29}{0}{4}
+\beamer@subsectionintoc {5}{6}{Software QA}{32}{0}{4}
+\beamer@sectionintoc {6}{Conclusiones}{34}{0}{5}
+\beamer@sectionintoc {7}{Demo}{36}{0}{6}

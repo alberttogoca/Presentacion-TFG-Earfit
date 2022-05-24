@@ -116,16 +116,16 @@
 
 %%%%%%%%%%%%%%%%%%%%%%% Definiciones básicas %%%%%%%%%%%%%%%%%%%%%%%
 
-\newcommand{\nombreautor}{Nombre Apellido1 Apellido2}
-\newcommand{\nombretutor}{NombreTutor Apellido1 Apellido2}
-\newcommand{\titulotrabajo}{Título del Trabajo de Fin de Grado -- Título del Trabajo de Fin de Grado}
+\newcommand{\nombreautor}{Alberto Gómez Cano}
+\newcommand{\nombretutor}{Manuel Rubio Sánchez}
+\newcommand{\titulotrabajo}{EARFIT: Aplicación Para Entrenamiento Auditivo Musical Basada en Next.js y TypeScript}
 \newcommand{\escuela}{Escuela Técnica Superior\\de Ingeniería Informática}
 \newcommand{\escuelalargo}{Escuela Técnica Superior de Ingeniería Informática}
 \newcommand{\universidad}{Universidad Rey Juan Carlos}
-\newcommand{\fecha}{XX/XX/20XX}
-\newcommand{\grado}{Grado en XXXXXXXX}
+\newcommand{\fecha}{\today}
+\newcommand{\grado}{Grado en Ingeniería Informática}
 \newcommand{\gradoabr}{TFG - GII} % Para el Grado en Ingeniería Informática
-\newcommand{\curso}{Curso 20XX-20XX}
+\newcommand{\curso}{Curso 2021-2022}
 \newcommand{\logoUniversidad}{logoURJC.pdf}
 \newcommand{\logoEscuela}{logo_ETSII_estrecho.jpg}
 
@@ -135,6 +135,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% Comandos definidos por el autor %%%%%%%
 
 \newcommand{\traspuesta}{\mbox{\tiny $\mathsf{T}$}}
+\graphicspath{ {assets} }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -171,305 +172,414 @@
 \logo{\vspace{-0.2cm} \includegraphics[height=0.5cm,clip=true]{icono_grado_informatica.png}}
 
 
-
+% ==================== CONTENIDO ========================
 \section*{Contenido}
 
 \begin{frame}
   \frametitle{Contenido}
-
   \tableofcontents
+\end{frame}
+
+% ==================== INTRODUCCIÓN ========================
+\section{Introducción}
+
+\begin{frame}
+  \frametitle{Entrenamiento Auditivo}
 
 \end{frame}
 
-
-
+% ==================== OBJETIVOS ========================
 \section{Objetivos}
 
 \begin{frame}
   \frametitle{Objetivos del TFG}
 
   \begin{itemize}
-    \item Objetivos generales \smallskip
+    \item Objetivo principal \smallskip
     \begin{itemize}
-      \item Obj 1 \smallskip
-      \item Obj 2 \bigskip
+      \item Desarrollar una aplicación que permita a músicos desarrollar su oído musical mediante el entrenamiento auditivo. \bigskip
     \end{itemize}
-    \item Objetivos específicos \smallskip
+    \item Subobjetivos \smallskip
     \begin{itemize}
-      \item \alert{Texto alerta} \bigskip
+      \item Desarrollar una interfaz interactiva. \smallskip
+      \item Implementar diferentes tipos de ejercicio personalizables de entrenamiento auditivo. \smallskip
+      \item Incluir varios instrumentos para prácticar con diferentes sonidos. \bigskip
     \end{itemize}
   \end{itemize}
 
 \end{frame}
 
-
-
-\subsection{Sub sec 1}
-
+% ==================== METODOLOGIAS ========================
+\section{Metodologías}
 \begin{frame}
-  \frametitle{Objetivos del TFG}
-  \framesubtitle{Usad subsecciones}
+  \frametitle{Metodologías}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Design Thinking/LeanDesignAgile}\\
+\end{frame}
 
+\subsection{Design Thinking}
+\begin{frame}
+  \frametitle{Design Thinking}
+  \framesubtitle{Generar Ideas Innovadoras}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Design Thinking/Etapas}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Mindmap}
+  \framesubtitle{Etapa: Idear}
+  \centering
+  \includegraphics[clip=true,width=0.64\textwidth]{Design Thinking/MindMap}\\
+\end{frame}
+\begin{frame}
+  \frametitle{MoSCoW}
+  \framesubtitle{Etapa: Protoptipar}
+  \centering
+  \includegraphics[clip=true,width=0.7\textwidth]{Design Thinking/MosCow}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Protoptipo}
+  \framesubtitle{Etapa: Protoptipar}
+  \centering
+  \includegraphics[clip=true,width=0.9\textwidth]{Design Thinking/Prototipo/Small/Prototipo1}\\
+\end{frame}
+
+\subsection{Lean Startup}
+\begin{frame}
+  \frametitle{Lean Startup}
+  \framesubtitle{Agilizar la Puesta en Marcha}
+  \centering
+  \includegraphics[clip=true,width=0.8\textwidth]{Lean Startup/CircuitoFeedback}\\
+\end{frame}
+
+\subsection{Scrum}
+\begin{frame}
+  \frametitle{Scrum}
+  \framesubtitle{Proceso de Gestión}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Scrum/Scrum}\\
+\end{frame}
+\begin{frame}
+  \frametitle{User Story Map}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Scrum/UserStoryMap}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Scrum Board}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Scrum/ScrumBoard}\\
+\end{frame}
+\begin{frame}
+  \frametitle{User Stories}
+  \centering
+  \includegraphics[clip=true,width=0.6\textwidth]{Scrum/UserStory}\\
+\end{frame}
+
+\subsection{DevOps}
+\begin{frame}
+  \frametitle{DevOps}
+  \framesubtitle{Filosofía de Desarrollo}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{DevOps/DevOps}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Integración Continua (CI)}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{DevOps/GitFlow}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Despliegue Continuo (CD)}
+  \centering
+  \includegraphics[clip=true,width=0.8\textwidth]{DevOps/DPS}\\
+\end{frame}
+
+% ==================== IMPLEMENTACIÓN ========================
+\section{Desarrollo del Software}
+\subsection{Tecnologías}
+\begin{frame}
+  \frametitle{Stack Tecnológico}
   \begin{itemize}
-    \item Objetivos generales \smallskip
-    \begin{itemize}
-      \item Obj 1 \smallskip
-      \item Obj 2 \bigskip
-    \end{itemize}
-    \item Objetivos específicos \smallskip
-    \begin{itemize}
-      \item \alert{Texto alerta} \bigskip
-    \end{itemize}
-  \end{itemize}
-
-\end{frame}
-
-
-\begin{frame}
-  \frametitle{Objetivos del TFG}
-
-  \begin{itemize}
-    \item Objetivos generales \smallskip
-    \begin{itemize}
-      \item Obj 1 \smallskip
-      \item Obj 2 \bigskip
-    \end{itemize}
-    \item Objetivos específicos \smallskip
-    \begin{itemize}
-      \item \alert{Texto alerta} \bigskip
-    \end{itemize}
-  \end{itemize}
-
-\end{frame}
-
-\subsection{Sub sec 2}
-
-\begin{frame}
-  \frametitle{Objetivos del TFG}
-
-  \begin{itemize}
-    \item Objetivos generales \smallskip
-    \begin{itemize}
-      \item Obj 1 \smallskip
-      \item Obj 2 \bigskip
-    \end{itemize}
-    \item Objetivos específicos \smallskip
-    \begin{itemize}
-      \item \alert{Texto alerta} \bigskip
-    \end{itemize}
-  \end{itemize}
-
-\end{frame}
-
-
-\begin{frame}
-  \frametitle{Objetivos del TFG}
-
-  \begin{itemize}
-    \item Objetivos generales \smallskip
-    \begin{itemize}
-      \item Obj 1 \smallskip
-      \item Obj 2 \bigskip
-    \end{itemize}
-    \item Objetivos específicos \smallskip
-    \begin{itemize}
-      \item \alert{Texto alerta} \bigskip
-    \end{itemize}
-  \end{itemize}
-
-\end{frame}
-
-
-
-\section{Desarrollo}
-
-\begin{frame}
-  \frametitle{Enumeración}
-
-  \begin{enumerate}
-    \item Punto 1 \bigskip
+    \item \textbf{Next.js}: Enrutamiento basado en páginas, Prerendering, Code Splitting, Prefetching, Fast Refrest, SWC y WebPack... \smallskip
         \pause
-    \item Punto 2 \bigskip
+    \item \textbf{React}: Componentes reutilizables, DOM Virtual, Hooks, Context... \smallskip
         \pause
-    \item Punto 3 \bigskip
+    \item \textbf{Vercel}: Vercel Edge Network, Vercel Analytics, Flujo DPS... \smallskip
         \pause
-    \item Punto 4 \bigskip
+    \item \textbf{Typescript}: Tipos estáticos para JavaScript.  \smallskip
         \pause
-    \item Punto 5 \bigskip
-  \end{enumerate}
-
-\end{frame}
-
-
-
-\begin{frame}
-  \frametitle{Fórmulas}
-
-Problema de optimización:
-\[
-\begin{array}{cl}
-  \displaystyle \begin{array}{c}\mathrm{minimizar} \\ \mathbf{t} \in \mathbb{R}^{n}, \  \mathbf{p} \in \mathbb{R}^{m} \end{array} & \hspace{-0.2cm} \begin{array}{c} \mathbf{1}^{\traspuesta}\mathbf{t} \\ \mbox{} \end{array}  \\
-  & \vspace{-0.4cm} \\ % línea (fila) en blanco, pero la hacemos estrecha con el comando vspace
-  \mbox{sujeto a} & -\mathbf{t} \preceq  \mathbf{V}\mathbf{p} - \mathbf{x}  \preceq  \mathbf{t},\\
- \end{array}
-\]
-
-\end{frame}
-
-
-
-\section{Resultados}
-
-
-\usebackgroundtemplate{\includegraphics[width=\paperwidth]{fondo_blanco.jpg}}
-\begin{frame}
-  \frametitle{Ejemplo con minipage}
-
-  \begin{minipage}{0.45\textwidth}
-   \centering
-
-\begin{itemize}
-  \item Teorema de Pitágoras \medskip
-  \item Hipotenusa  \medskip
-  \item Catetos \medskip
-  \item Triángulo rectángulo \medskip
-  \begin{itemize}
-    \item Incluid espacios verticales \smallskip
-    \item Se ha quitado la marca de agua
+    \item \textbf{Node.js}: Entorno de ejecución Javascript, librerías útiles (NPM vs. Yarn). \smallskip
+        \pause
+    \item \textbf{VScode}:  Git integrado, depuración, resaltado de sintaxis, finalización inteligente, refactorización de código, extensiones (ESLint y Prettier)... \bigskip
   \end{itemize}
-\end{itemize}
-
-  \end{minipage}
-  \hfill
-  \begin{minipage}{0.45\textwidth}
-   \centering
-     \includegraphics[clip=true,width=\textwidth]{triangulos_separados_bb.pdf}\\
-  \end{minipage}
-
 \end{frame}
 
-% Restablecer la marca de agua
-\usebackgroundtemplate{\includegraphics[width=\paperwidth]{logoURJC_marca_agua_U.jpg}}
+\subsection{Arquitectura}
+\begin{frame}
+  \frametitle{Arquitectura}
+  \centering
+  \includegraphics[clip=true,width=0.85\textwidth]{Detalles de Implementación/Arquitectura}\\
+\end{frame}
 
+\subsection{Estructura de Archivos}
+\begin{frame}
+  \frametitle{Estructura de Archivos}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Estructura de Archivos/ArchivosConfig}\\
+\end{frame}
 
-
+\subsection{Detalles de Implementación}
+\begin{frame}
+  \frametitle{Tipos}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Instrument}\\
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Noteplayer-small}\\
+\end{frame}
 
 \begin{frame}
-  \frametitle{Constrained norm minimization problem}
-  \framesubtitle{Exact estimates for one data variable}
-%  \thispagestyle{empty}
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/VariantExercise}\\
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Answer}\\
+\end{frame}
 
-
-\[
-  \begin{array}{cl}
-  \displaystyle \begin{array}{c}\mathrm{minimize} \\ \mathbf{p} \in \mathbb{R}^{m} \end{array} & \hspace{-0.2cm} \begin{array}{c} \| \hat{\mathbf{x}} - \mathbf{x} \|, \\ \mbox{} \end{array}  \\[15pt]
-   \mbox{subject to} & \mathbf{v}_{i}^{\traspuesta}\mathbf{p} = x_{i}, \\
-  \end{array}
-\]
-
-\begin{itemize}
-  \item $\mathbf{x}$: Data sample \smallskip
-  \item $\mathbf{p}$: Low-dimensional representation of $\mathbf{x}$  \smallskip
-  \item $\hat{\mathbf{x}} = \mathbf{V}\mathbf{p}$: Estimates of $\mathbf{x}$ \smallskip
-  \item $\hat{x}_{i} = \mathbf{v}_{i}^{\traspuesta}\mathbf{p}$: Estimate of $\mathbf{x}$ for the $i$-th attribute \smallskip
+\begin{frame}
+  \frametitle{Librerías}
   \begin{itemize}
-    \item Through orthogonal projections onto $i$-th axis
+    \item \textbf{Tonal.js}: Manipular elementos musicales. \smallskip
+    \item \textbf{Soundfont-player}: Cargar y reproducir archivos MIDI.js. \smallskip
+    \item \textbf{Soundfont-wrapper}: Refinar la complejidad de “soundfont-player” y simplificar su uso. \smallskip
+    \item \textbf{React-piano}: Teclado de piano interactivo (sin sonidos). \smallskip
+    \item \textbf{React-use-measure}: Para que el piano sea responsive. \smallskip
+    \item \textbf{React-bootstrap}: Librería de estilos CSS. \smallskip
+    \item \textbf{Next-pwa}: Registrar y generar un Service Worker. \bigskip
   \end{itemize}
-\end{itemize}
+\end{frame}
 
+\begin{frame}
+  \frametitle{Servicios}
+  \begin{itemize}
+    \item \textbf{instrumentService.ts}: Provee los instrumentos de la aplicación. \smallskip
+    \item \textbf{noteService.ts}: Provee las respuestas correspondientes al ejericio de notas. \smallskip
+    \item \textbf{intervalService.ts}: Provee las respuestas correspondientes al ejericio de intervalos. \smallskip
+    \item \textbf{scaleService.ts}: Provee las respuestas correspondientes al ejericio de escalas. \bigskip
+  \end{itemize}
+\end{frame}
 
+\begin{frame}
+  \frametitle{Jerarquía de Componentes}
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/JerarquíaComponentes}\\
+\end{frame}
+
+\begin{frame}
+  \frametitle{Comportamiento de una Página (1/2)}
+  \framesubtitle{Hooks}
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Pages/Page1}\\
+\end{frame}
+
+\begin{frame}
+  \frametitle{Comportamiento de una Página (2/2)}
+  \framesubtitle{Componentes}
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Pages/Page2}\\
+\end{frame}
+
+\begin{frame}
+  \frametitle{Comportamiento de un Componente}
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Components/Component}\\
+\end{frame}
+
+\subsection{Progressive Web App}
+\begin{frame}
+  \frametitle{Progressive Web App (PWA)}
+  Una PWA es confiable, instalable y se comporta como una app nativa en ordenador, móvil y tablet. \bigskip
+
+  Para que una aplicación sea PWA debe tener: 
+  \begin{itemize}
+    \item Una conexión segura HTTPS. \smallskip
+    \item Cargue sin conexión, para ello requiere un Service Worker. \smallskip
+    \item Información como nombre, autor, icono y descripción en un documento JSON llamado Manifest. \smallskip
+    \item Un icono de al menos 144x144 px en formato PNG. \bigskip
+  \end{itemize}
+\end{frame}
+\begin{frame}
+  \frametitle{Progressive Web App (PWA)}
+  \framesubtitle{Instalar}
+  En iOS, la opción se llama “añadir a pantalla de inicio” desde Safari y en Chrome aparece un icono en la barra de búsqueda.
+  \centering
+  \includegraphics[clip=true,width=0.5\textwidth]{Detalles de Implementación/PWA/InstalarPWA}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Progressive Web App (PWA)}
+  \framesubtitle{Earfit como PWA en MacOs}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Capturas Earfit/PC/Intervals}\\
+\end{frame}
+
+\subsection{Software QA}
+\begin{frame}
+  \frametitle{Google Lighthouse}
+  \framesubtitle{Auditoría de Calidad de la Página Web}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Lighthouse/Resumen}\\
+  \raggedright	
+  En el apartado Performance:
+  \begin{itemize}
+    \item Lighthouse da falsas mediciones para aplicaciones Next.js.
+    \item Lighthouse estima las Web Vitals ejecutando una simulación.
+    \item En este caso, usar Vercel Analytics aporta ventajas, como datos reales de los dispositivos de los usuarios.
+  \end{itemize}
+
+\end{frame}
+\begin{frame}
+  \frametitle{Vercel Analytics}
+  \framesubtitle{Experiencia de Usuario de la Página Web}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Vercel/VercelAnalytics}\\
 \end{frame}
 
 
-
-\setbeamercolor{math text}{fg=pureblue}
-\setbeamercolor{math text inlined}{parent=math text}
-\setbeamercolor{math text displayed}{parent=math text}
+% ==================== CONCLUSIONES ========================
+\section{Conclusiones}
+\begin{frame}
+  \frametitle{Conclusiones}
+  Objetivos Alcanzados:
+    \begin{itemize}
+      \item OBJ1  \smallskip
+      \item OBJ2 \bigskip
+    \end{itemize}
+  Trabajos Futuros:
+    \begin{itemize}
+      \item Funcionalidades: Ejercicios de acordes, ritmos, progresiones, modo nocturno y varios idiomas. \smallskip
+      \item Añadir cobertura de código y test automáticos al flujo de Integración Continua (CI) \smallskip
+      \item Considerar Software libre vs Negocio: Plantear alguna forma de monetización, marketing, etc. \bigskip
+    \end{itemize}
+\end{frame}
 
 \begin{frame}
-  \frametitle{Constrained norm minimization problem}
-  \framesubtitle{Exact estimates for one data variable}
-%  \thispagestyle{empty}
-
-
-\[
-  \begin{array}{cl}
-  \displaystyle \begin{array}{c}\mathrm{minimize} \\ \mathbf{p} \in \mathbb{R}^{m} \end{array} & \hspace{-0.2cm} \begin{array}{c} \| \hat{\mathbf{x}} - \mathbf{x} \|, \\ \mbox{} \end{array}  \\[15pt]
-   \mbox{subject to} & \mathbf{v}_{i}^{\traspuesta}\mathbf{p} = x_{i}, \\
-  \end{array}
-\]
-
-\begin{itemize}
-  \item $\mathbf{x}$: Data sample \smallskip
-  \item $\mathbf{p}$: Low-dimensional representation of $\mathbf{x}$  \smallskip
-  \item $\hat{\mathbf{x}} = \mathbf{V}\mathbf{p}$: Estimates of $\mathbf{x}$ \smallskip
-  \item $\hat{x}_{i} = \mathbf{v}_{i}^{\traspuesta}\mathbf{p}$: Estimate of $\mathbf{x}$ for the $i$-th attribute \smallskip
+  \frametitle{Conclusiones}
+  Buenas Prácticas:
   \begin{itemize}
-    \item Through orthogonal projections onto $i$-th axis
+    \item Guía de Estilo de Código \smallskip
+    \item Principios Clean Code \smallskip
+    \item Otras Buenas Prácticas \bigskip
   \end{itemize}
-\end{itemize}
+\end{frame}
 
-
+% ==================== DEMO ========================
+\section{Demo}
+\begin{frame}
+  \frametitle{Demo}
+  \framesubtitle{Video de demostración}
 \end{frame}
 
 \setbeamercolor{math text}{fg=Crimson}
 \setbeamercolor{math text inlined}{parent=math text}
 \setbeamercolor{math text displayed}{parent=math text}
 
-
-\begin{frame}
-  \frametitle{Constrained norm minimization problem}
-  \framesubtitle{Exact estimates for one data variable}
-%  \thispagestyle{empty}
-
-
-\[
-  \begin{array}{cl}
-  \displaystyle \begin{array}{c}\mathrm{minimize} \\ \mathbf{p} \in \mathbb{R}^{m} \end{array} & \hspace{-0.2cm} \begin{array}{c} \| \hat{\mathbf{x}} - \mathbf{x} \|, \\ \mbox{} \end{array}  \\[15pt]
-   \mbox{subject to} & \mathbf{v}_{i}^{\traspuesta}\mathbf{p} = x_{i}, \\
-  \end{array}
-\]
-
-\begin{itemize}
-  \item $\mathbf{x}$: Data sample \smallskip
-  \item $\mathbf{p}$: Low-dimensional representation of $\mathbf{x}$  \smallskip
-  \item $\hat{\mathbf{x}} = \mathbf{V}\mathbf{p}$: Estimates of $\mathbf{x}$ \smallskip
-  \item $\hat{x}_{i} = \mathbf{v}_{i}^{\traspuesta}\mathbf{p}$: Estimate of $\mathbf{x}$ for the $i$-th attribute \smallskip
-  \begin{itemize}
-    \item Through orthogonal projections onto $i$-th axis
-  \end{itemize}
-\end{itemize}
-
-
-\end{frame}
-
-
-
+% ==================== ÚLTIMA DIAPOSITIVA ========================
 
 \usebackgroundtemplate{\includegraphics[width=\paperwidth]{fondo_blanco.jpg}}
 
 \begin{frame}[plain]
 
-\begin{center}
+  \begin{center}
 
-  \bigskip  \bigskip
+    \bigskip  \bigskip
 
-  \begin{Large} \textcolor{crimson}{\textbf{\titulotrabajo}} \end{Large} \bigskip \bigskip
+    \begin{Large} \textcolor{crimson}{\textbf{\titulotrabajo}} \end{Large} \bigskip \bigskip
 
-  \begin{footnotesize} \textrm{Trabajo Fin de Grado} \\ \end{footnotesize} \bigskip \bigskip
+    \begin{footnotesize} \textrm{Trabajo Fin de Grado} \\ \end{footnotesize} \bigskip \bigskip
 
-  \begin{footnotesize} \textbf{\grado} -- \curso \end{footnotesize} \bigskip \bigskip
+    \begin{footnotesize} \textbf{\grado} -- \curso \end{footnotesize} \bigskip \bigskip
 
-  \begin{footnotesize} \textsf{Autor:} \textit{\nombreautor} \\ \smallskip
-                        \textsf{Tutor:} \textit{\nombretutor} \end{footnotesize} \bigskip \bigskip
+    \begin{footnotesize} \textsf{Autor:} \textit{\nombreautor} \\ \smallskip
+                          \textsf{Tutor:} \textit{\nombretutor} \end{footnotesize} \bigskip \bigskip
 
 
-  \includegraphics[height=1cm]{logo_ETSII_estrecho.jpg}
+    \includegraphics[height=1cm]{logo_ETSII_estrecho.jpg}
 
-\end{center}
+  \end{center}
 
 \end{frame}
 
 
+% ==================== Ejemplos Latex========================
+\begin{frame}
+  \frametitle{Ejemplo con colores}
+
+  \begin{itemize}
+    \item $\mathbf{x}$: Data sample \smallskip
+    \item $\mathbf{p}$: Low-dimensional representation of $\mathbf{x}$  \smallskip
+    \item $\hat{\mathbf{x}} = \mathbf{V}\mathbf{p}$: Estimates of $\mathbf{x}$ \smallskip
+    \item $\hat{x}_{i} = \mathbf{v}_{i}^{\traspuesta}\mathbf{p}$: Estimate of $\mathbf{x}$ for the $i$-th attribute \smallskip
+    \begin{itemize}
+      \item Through orthogonal projections onto $i$-th axis
+    \end{itemize}
+  \end{itemize}
+
+\end{frame}
+
+ % === Ejemplo con minipage ===
+ \usebackgroundtemplate{\includegraphics[width=\paperwidth]{fondo_blanco.jpg}}
+ \begin{frame}
+   \frametitle{Ejemplo con minipage}
+ 
+   \begin{minipage}{0.45\textwidth}
+    \centering
+ 
+ \begin{itemize}
+   \item Teorema de Pitágoras \medskip
+   \item Hipotenusa  \medskip
+   \item Catetos \medskip
+   \item Triángulo rectángulo \medskip
+   \begin{itemize}
+     \item Incluid espacios verticales \smallskip
+     \item Se ha quitado la marca de agua
+   \end{itemize}
+ \end{itemize}
+ 
+   \end{minipage}
+   \hfill
+   \begin{minipage}{0.45\textwidth}
+    \centering
+      \includegraphics[clip=true,width=\textwidth]{triangulos_separados_bb.pdf}\\
+   \end{minipage}
+ 
+ \end{frame}
+ 
+ % Restablecer la marca de agua
+ \usebackgroundtemplate{\includegraphics[width=\paperwidth]{logoURJC_marca_agua_U.jpg}}
+ % === Fin Ejemplo con minipage ===
+
 
 \end{document}
+
+
+
+  %\begin{itemize}
+  %  \item Instrument \smallskip
+  %  \item InstrumentName \smallskip
+  %  \item NotePlayer \smallskip
+  %  \item VariantExercise \smallskip
+  %  \item Answer \smallskip
+  %  \item SelectableAnswer \smallskip
+  %  \item SelectableAnswerWithColor \bigskip
+  %\end{itemize}
+
+  % \subsection{Hooks y Context}
+% \begin{frame}
+%   \frametitle{Hooks}
+%   \begin{itemize}
+%     \item \textbf{useExercise.tsx} \smallskip
+%     \item \textbf{useAnswerToggles.tsx} \smallskip
+%     \item \textbf{useAnswer.tsx} \smallskip
+%     \item \textbf{useAnswerButtons.tsx} \smallskip
+%     \item \textbf{useStreak.tsx} \smallskip
+%     \item \textbf{usePlayButton.tsx} \smallskip
+%     \item \textbf{useScaleDropDown.tsx} \smallskip
+%     \item \textbf{usePiano.tsx} \bigskip
+%   \end{itemize}
+% \end{frame}
+
+% \begin{frame}
+%   \frametitle{Context}
+%   \begin{itemize}
+%     \item \textbf{EarfitContex.tsx}: Se encarga de la lógica relacionada a los instrumentos.\bigskip
+%   \end{itemize}
+% \end{frame}
