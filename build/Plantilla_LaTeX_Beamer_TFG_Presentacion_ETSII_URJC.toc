@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {2}{Objetivos}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Sub sec 1}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{Sub sec 2}{6}{0}{1}
+\beamer@sectionintoc {3}{Desarrollo}{8}{0}{2}
+\beamer@sectionintoc {4}{Resultados}{10}{0}{3}
