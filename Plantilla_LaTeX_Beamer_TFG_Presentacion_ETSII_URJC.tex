@@ -182,28 +182,40 @@
 
 % ==================== INTRODUCCIÓN ========================
 \section{Introducción}
+\begin{frame}
+  \frametitle{Resumen}
+  \begin{itemize}
+    \item Herramienta para ayudar a músicos a desarrollar su oído (Musical Ear Training). \bigskip
+    \item EARFIT es una PWA basada en Next.js y TypeScript. \bigskip
+    \item Desarrollada bajo metodologías ágiles y desplegada en Vercel. \bigskip
+    \item Se basa en un conjunto de ejercicios de entrenamiento auditivo. \bigskip
+  \end{itemize}
+\end{frame}
 
 \begin{frame}
   \frametitle{Entrenamiento Auditivo}
-
+\begin{itemize}
+  \item Es el proceso de identificar y asociar los elementos musicales con la forma en que se siente el sonido físicamente. \bigskip
+  \item Los músicos, productores y DJs pueden beneficiarse del entrenamiento auditivo. \bigskip
+  \item Permite sacar canciones más rápido, con mayor precisión, improvisar mejor y llevar al instrumento las melodías que imagines con mayor facilidad. \bigskip
+  \item Los ejercicios más comunes incluyen habilidades como identificar notas, intervalos, escalas... \bigskip
+\end{itemize}
 \end{frame}
 
 % ==================== OBJETIVOS ========================
-\section{Objetivos}
-
 \begin{frame}
-  \frametitle{Objetivos del TFG}
+  \frametitle{Objetivos}
 
   \begin{itemize}
-    \item Objetivo principal \smallskip
+    \item \textbf{Objetivo principal}: \bigskip
     \begin{itemize}
-      \item Desarrollar una aplicación que permita a músicos desarrollar su oído musical mediante el entrenamiento auditivo. \bigskip
+      \item Crear una aplicación que permita a músicos desarrollar su oído musical mediante el entrenamiento auditivo. \bigskip
     \end{itemize}
-    \item Subobjetivos \smallskip
+    \item \textbf{Subobjetivos}: \bigskip
     \begin{itemize}
-      \item Desarrollar una interfaz interactiva. \smallskip
-      \item Implementar diferentes tipos de ejercicio personalizables de entrenamiento auditivo. \smallskip
-      \item Incluir varios instrumentos para prácticar con diferentes sonidos. \bigskip
+      \item Desarrollar una interfaz interactiva. \bigskip
+      \item Implementar diferentes tipos de ejercicio personalizables. \bigskip
+      \item Incluir varios instrumentos para prácticar con sus sonidos. \bigskip
     \end{itemize}
   \end{itemize}
 
@@ -213,8 +225,9 @@
 \section{Metodologías}
 \begin{frame}
   \frametitle{Metodologías}
+  \framesubtitle{Proceso Combinado de Design Thinking, Lean Startup, Scrum y DevOps}
   \centering
-  \includegraphics[clip=true,width=\textwidth]{Design Thinking/LeanDesignAgile}\\
+  \includegraphics[clip=true,width=\textwidth]{Design Thinking/LeanDesignAgile-small}\\
 \end{frame}
 
 \subsection{Design Thinking}
@@ -225,28 +238,40 @@
   \includegraphics[clip=true,width=\textwidth]{Design Thinking/Etapas}\\
 \end{frame}
 \begin{frame}
-  \frametitle{Mindmap}
-  \framesubtitle{Etapa: Idear}
+  \frametitle{Mindmap (1/2)}
+  \framesubtitle{Representar Ideas o Conceptos y Encontrar Soluciones}
   \centering
-  \includegraphics[clip=true,width=0.64\textwidth]{Design Thinking/MindMap}\\
+  \includegraphics[clip=true,width=0.65\textwidth]{Design Thinking/MindMap}\\
 \end{frame}
 \begin{frame}
-  \frametitle{MoSCoW}
-  \framesubtitle{Etapa: Protoptipar}
+  \frametitle{Mindmap (2/2)}
+  \framesubtitle{User Persona, Problemas y Soluciones (Hipótesis)}
   \centering
-  \includegraphics[clip=true,width=0.7\textwidth]{Design Thinking/MosCow}\\
+  \includegraphics[clip=true,width=\textwidth]{Design Thinking/MindMap2}\\
 \end{frame}
 \begin{frame}
-  \frametitle{Protoptipo}
-  \framesubtitle{Etapa: Protoptipar}
+  \frametitle{MoSCoW (1/2)}
+  \framesubtitle{Establecer las Prioridades del Proyecto}
   \centering
-  \includegraphics[clip=true,width=0.9\textwidth]{Design Thinking/Prototipo/Small/Prototipo1}\\
+  \includegraphics[clip=true,width=0.73\textwidth]{Design Thinking/MosCow}\\
+\end{frame}
+\begin{frame}
+  \frametitle{MoSCoW (2/2)}
+  \framesubtitle{Must Have y Should Have}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Design Thinking/MosCow2}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Prototipo}
+  \framesubtitle{Mobile First y Atomic Design}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Design Thinking/Prototipo/Small/Prototipo1}\\
 \end{frame}
 
 \subsection{Lean Startup}
 \begin{frame}
   \frametitle{Lean Startup}
-  \framesubtitle{Agilizar la Puesta en Marcha}
+  \framesubtitle{Puesta en Marcha y Optimización de la Solución}
   \centering
   \includegraphics[clip=true,width=0.8\textwidth]{Lean Startup/CircuitoFeedback}\\
 \end{frame}
@@ -254,158 +279,187 @@
 \subsection{Scrum}
 \begin{frame}
   \frametitle{Scrum}
-  \framesubtitle{Proceso de Gestión}
+  \framesubtitle{Proceso de Gestión del Desarrollo}
   \centering
   \includegraphics[clip=true,width=\textwidth]{Scrum/Scrum}\\
 \end{frame}
 \begin{frame}
-  \frametitle{User Story Map}
+  \frametitle{User Story Map (1/2)}
+  \framesubtitle{Definir el Viaje o Casos de Uso del Usuario en el Producto}
   \centering
   \includegraphics[clip=true,width=\textwidth]{Scrum/UserStoryMap}\\
 \end{frame}
 \begin{frame}
-  \frametitle{Scrum Board}
+  \frametitle{User Story Map (2/2)}
+  \framesubtitle{User Activities, User Tasks, User Stories y Releases}
   \centering
-  \includegraphics[clip=true,width=\textwidth]{Scrum/ScrumBoard}\\
+  \includegraphics[clip=true,width=\textwidth]{Scrum/UserStoryMap11}\\
+\end{frame}
+\begin{frame}
+  \frametitle{Scrum Board}
+  \framesubtitle{Visualizar el Trabajo y Gestionar el Desarrollo (Product Backlog y Sprint Backlog)}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Scrum/ScrumBoard1}\\
 \end{frame}
 \begin{frame}
   \frametitle{User Stories}
+  \framesubtitle{Características o Requisitos del Sistema desde la Perspectiva del Usuario}
   \centering
-  \includegraphics[clip=true,width=0.6\textwidth]{Scrum/UserStory}\\
+  \includegraphics[clip=true,width=\textwidth]{Scrum/UserStory-small}\\
 \end{frame}
+% \begin{frame}
+%   \frametitle{User Stories (2/2)}
+%   \framesubtitle{Continuación...}
+%   \centering
+%   \includegraphics[clip=true,width=\textwidth]{Scrum/UserStory2}\\
+% \end{frame}
 
 \subsection{DevOps}
 \begin{frame}
   \frametitle{DevOps}
-  \framesubtitle{Filosofía de Desarrollo}
+  \framesubtitle{Agilizar los Procesos del Entorno de Desarrollo al de Producción}
   \centering
   \includegraphics[clip=true,width=\textwidth]{DevOps/DevOps}\\
 \end{frame}
 \begin{frame}
   \frametitle{Integración Continua (CI)}
+  \framesubtitle{Git, GitHub y GitFlow}
   \centering
   \includegraphics[clip=true,width=\textwidth]{DevOps/GitFlow}\\
 \end{frame}
 \begin{frame}
   \frametitle{Despliegue Continuo (CD)}
+  \framesubtitle{GitHub Actions, Vercel y Flujo DPS}
   \centering
   \includegraphics[clip=true,width=0.8\textwidth]{DevOps/DPS}\\
 \end{frame}
 
 % ==================== IMPLEMENTACIÓN ========================
-\section{Desarrollo del Software}
+\section{Desarrollo}
 \subsection{Tecnologías}
+% \begin{frame}
+%   \frametitle{Stack Tecnológico}
+%   \centering
+%   \includegraphics[clip=true,width=\textwidth]{Logos/Logos}\\
+% \end{frame}
 \begin{frame}
   \frametitle{Stack Tecnológico}
+  \centering
+  \includegraphics[clip=true,width=0.8\textwidth]{Logos/Logos-small}\\ \bigskip
   \begin{itemize}
-    \item \textbf{Next.js}: Enrutamiento basado en páginas, Prerendering, Code Splitting, Prefetching, Fast Refrest, SWC y WebPack... \smallskip
-        \pause
-    \item \textbf{React}: Componentes reutilizables, DOM Virtual, Hooks, Context... \smallskip
-        \pause
-    \item \textbf{Vercel}: Vercel Edge Network, Vercel Analytics, Flujo DPS... \smallskip
-        \pause
-    \item \textbf{Typescript}: Tipos estáticos para JavaScript.  \smallskip
-        \pause
-    \item \textbf{Node.js}: Entorno de ejecución Javascript, librerías útiles (NPM vs. Yarn). \smallskip
-        \pause
-    \item \textbf{VScode}:  Git integrado, depuración, resaltado de sintaxis, finalización inteligente, refactorización de código, extensiones (ESLint y Prettier)... \bigskip
+    \item \textbf{Next.js}: Enrutamiento basado en páginas, Prerendering, Code Splitting, Prefetching, Fast Refrest, SWC y WebPack... \bigskip
+    \item \textbf{React}: Componentes, DOM Virtual, Hooks, Context... \bigskip
+    % \item \textbf{Vercel}: Vercel Edge Network, Vercel Analytics, Flujo DPS... \bigskip
+    \item \textbf{Typescript}: Tipos estáticos para JavaScript.  \bigskip
+    \item \textbf{Node.js}: Entorno de ejecución, librerías (NPM vs. Yarn). \bigskip
+    \item \textbf{VScode}:  Git integrado, extensiones (ESLint y Prettier). \bigskip
   \end{itemize}
 \end{frame}
 
 \subsection{Arquitectura}
 \begin{frame}
   \frametitle{Arquitectura}
+  \framesubtitle{Estructura, Funcionamiento e Interacción}
   \centering
   \includegraphics[clip=true,width=0.85\textwidth]{Detalles de Implementación/Arquitectura}\\
 \end{frame}
 
 \subsection{Estructura de Archivos}
 \begin{frame}
-  \frametitle{Estructura de Archivos}
+  \frametitle{Estructura de Archivos} 
+  \framesubtitle{Pages y Public son Directorios Especiales en Next.js}
   \centering
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Estructura de Archivos/ArchivosConfig}\\
 \end{frame}
 
 \subsection{Detalles de Implementación}
 \begin{frame}
-  \frametitle{Tipos}
+  \frametitle{Tipos de TypeScript (1/2)}
+  \framesubtitle{Cada Instrumento tiene un NotePlayer para Reproducir Notas}
   \centering
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Instrument}\\
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Noteplayer-small}\\
 \end{frame}
 
 \begin{frame}
+  \frametitle{Tipos de TypeScript (2/2)}
+  \framesubtitle{Dependiendo de la Variante, las Respuestas tienen Notas, Intervalos o Escalas}
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/VariantExercise}\\
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Answer}\\
 \end{frame}
 
 \begin{frame}
   \frametitle{Librerías}
+  \framesubtitle{Soundfont-wrapper crea los Noteplayer para Cada Instrumento}
   \begin{itemize}
-    \item \textbf{Tonal.js}: Manipular elementos musicales. \smallskip
-    \item \textbf{Soundfont-player}: Cargar y reproducir archivos MIDI.js. \smallskip
-    \item \textbf{Soundfont-wrapper}: Refinar la complejidad de “soundfont-player” y simplificar su uso. \smallskip
-    \item \textbf{React-piano}: Teclado de piano interactivo (sin sonidos). \smallskip
-    \item \textbf{React-use-measure}: Para que el piano sea responsive. \smallskip
-    \item \textbf{React-bootstrap}: Librería de estilos CSS. \smallskip
+    \item \textbf{Tonal.js}: Manipular elementos musicales. \bigskip
+    \item \textbf{Soundfont-player}: Cargar y reproducir archivos MIDI.js. \bigskip
+    \item \textbf{Soundfont-wrapper}: Refinar la complejidad de “soundfont-player” y simplificar su uso. \bigskip
+    \item \textbf{React-piano}: Teclado de piano interactivo (sin sonidos). \bigskip
+    \item \textbf{React-use-measure}: Para que el piano sea responsive. \bigskip
+    \item \textbf{React-bootstrap}: Librería de estilos CSS. \bigskip
     \item \textbf{Next-pwa}: Registrar y generar un Service Worker. \bigskip
   \end{itemize}
 \end{frame}
 
 \begin{frame}
   \frametitle{Servicios}
+  \framesubtitle{Proveen los Datos y Alguna Lógica a los Hooks y Context}
   \begin{itemize}
-    \item \textbf{instrumentService.ts}: Provee los instrumentos de la aplicación. \smallskip
-    \item \textbf{noteService.ts}: Provee las respuestas correspondientes al ejericio de notas. \smallskip
-    \item \textbf{intervalService.ts}: Provee las respuestas correspondientes al ejericio de intervalos. \smallskip
+    \item \textbf{instrumentService.ts}: Provee los instrumentos de la aplicación. \bigskip
+    \item \textbf{noteService.ts}: Provee las respuestas correspondientes al ejericio de notas. \bigskip
+    \item \textbf{intervalService.ts}: Provee las respuestas correspondientes al ejericio de intervalos. \bigskip
     \item \textbf{scaleService.ts}: Provee las respuestas correspondientes al ejericio de escalas. \bigskip
   \end{itemize}
 \end{frame}
 
 \begin{frame}
   \frametitle{Jerarquía de Componentes}
+  \framesubtitle{Los Componentes Son Reutilizados entre Páginas}
+  \centering
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/JerarquíaComponentes}\\
 \end{frame}
 
 \begin{frame}
   \frametitle{Comportamiento de una Página (1/2)}
-  \framesubtitle{Hooks}
+  \framesubtitle{Los Custom Hooks Encapsulan la Lógica de Estado}
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Pages/Page1}\\
 \end{frame}
 
 \begin{frame}
   \frametitle{Comportamiento de una Página (2/2)}
-  \framesubtitle{Componentes}
+  \framesubtitle{Los Componentes reciben Estados y Callbacks a Través de Props}
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Pages/Page2}\\
 \end{frame}
 
 \begin{frame}
   \frametitle{Comportamiento de un Componente}
+  \framesubtitle{Los Componentes Actúan como Funciones Puras}
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Components/Component}\\
 \end{frame}
 
 \subsection{Progressive Web App}
 \begin{frame}
-  \frametitle{Progressive Web App (PWA)}
-  Una PWA es confiable, instalable y se comporta como una app nativa en ordenador, móvil y tablet. \bigskip
-
-  Para que una aplicación sea PWA debe tener: 
+  \frametitle{Progressive Web App (1/3)}
+  \framesubtitle{Confiable e Instalable como una App Nativa en PC, Móvil y Tablet}
+  Para que una aplicación sea PWA debe tener: \bigskip
   \begin{itemize}
-    \item Una conexión segura HTTPS. \smallskip
-    \item Cargue sin conexión, para ello requiere un Service Worker. \smallskip
-    \item Información como nombre, autor, icono y descripción en un documento JSON llamado Manifest. \smallskip
-    \item Un icono de al menos 144x144 px en formato PNG. \bigskip
+    \item Una conexión segura HTTPS. \bigskip
+    \item Cargue sin conexión, para ello requiere un Service Worker. \bigskip
+    \item Información como nombre, autor, icono y descripción en un documento JSON llamado Manifest. \bigskip
+    \item Un icono de al menos 144x144 px en formato PNG. \
   \end{itemize}
 \end{frame}
 \begin{frame}
-  \frametitle{Progressive Web App (PWA)}
-  \framesubtitle{Instalar}
-  En iOS, la opción se llama “añadir a pantalla de inicio” desde Safari y en Chrome aparece un icono en la barra de búsqueda.
+  \frametitle{Progressive Web App (2/3)}
+  \framesubtitle{¿Cómo se Instala?}
+  En Safari, la opción se llama ``añadir a pantalla de inicio'' y en Chrome aparece un icono en la barra de búsqueda. \bigskip
+
   \centering
   \includegraphics[clip=true,width=0.5\textwidth]{Detalles de Implementación/PWA/InstalarPWA}\\
 \end{frame}
 \begin{frame}
-  \frametitle{Progressive Web App (PWA)}
+  \frametitle{Progressive Web App (3/3)}
   \framesubtitle{Earfit como PWA en MacOs}
   \centering
   \includegraphics[clip=true,width=\textwidth]{Capturas Earfit/PC/Intervals}\\
@@ -414,15 +468,15 @@
 \subsection{Software QA}
 \begin{frame}
   \frametitle{Google Lighthouse}
-  \framesubtitle{Auditoría de Calidad de la Página Web}
+  \framesubtitle{Auditoría de Calidad de la Página Web (Web Vitals)}
   \centering
   \includegraphics[clip=true,width=\textwidth]{Lighthouse/Resumen}\\
   \raggedright	
-  En el apartado Performance:
+  En el apartado Performance: \bigskip
   \begin{itemize}
-    \item Lighthouse da falsas mediciones para aplicaciones Next.js.
-    \item Lighthouse estima las Web Vitals ejecutando una simulación.
-    \item En este caso, usar Vercel Analytics aporta ventajas, como datos reales de los dispositivos de los usuarios.
+    \item Lighthouse da falsas mediciones para aplicaciones Next.js. \bigskip
+    \item Lighthouse estima las Web Vitals ejecutando una simulación. \bigskip
+    \item En este caso, usar Vercel Analytics aporta ventajas, como datos reales de los dispositivos de los usuarios. \bigskip
   \end{itemize}
 
 \end{frame}
@@ -438,12 +492,12 @@
 \section{Conclusiones}
 \begin{frame}
   \frametitle{Conclusiones}
-  Objetivos Alcanzados:
+  \textbf{Objetivos Alcanzados}:
     \begin{itemize}
-      \item OBJ1  \smallskip
+      \item OBJ1  \bigskip
       \item OBJ2 \bigskip
     \end{itemize}
-  Trabajos Futuros:
+    \textbf{Trabajos Futuros}:
     \begin{itemize}
       \item Funcionalidades: Ejercicios de acordes, ritmos, progresiones, modo nocturno y varios idiomas. \smallskip
       \item Añadir cobertura de código y test automáticos al flujo de Integración Continua (CI) \smallskip
@@ -451,21 +505,11 @@
     \end{itemize}
 \end{frame}
 
-\begin{frame}
-  \frametitle{Conclusiones}
-  Buenas Prácticas:
-  \begin{itemize}
-    \item Guía de Estilo de Código \smallskip
-    \item Principios Clean Code \smallskip
-    \item Otras Buenas Prácticas \bigskip
-  \end{itemize}
-\end{frame}
-
 % ==================== DEMO ========================
-\section{Demo}
 \begin{frame}
-  \frametitle{Demo}
-  \framesubtitle{Video de demostración}
+  \frametitle{Video de demostración}
+  \centering
+  \includegraphics[clip=true,width=0.35\textwidth]{Conclusiones/EarfitQR}
 \end{frame}
 
 \setbeamercolor{math text}{fg=Crimson}
@@ -498,69 +542,10 @@
 
 \end{frame}
 
-
-% ==================== Ejemplos Latex========================
-\begin{frame}
-  \frametitle{Ejemplo con colores}
-
-  \begin{itemize}
-    \item $\mathbf{x}$: Data sample \smallskip
-    \item $\mathbf{p}$: Low-dimensional representation of $\mathbf{x}$  \smallskip
-    \item $\hat{\mathbf{x}} = \mathbf{V}\mathbf{p}$: Estimates of $\mathbf{x}$ \smallskip
-    \item $\hat{x}_{i} = \mathbf{v}_{i}^{\traspuesta}\mathbf{p}$: Estimate of $\mathbf{x}$ for the $i$-th attribute \smallskip
-    \begin{itemize}
-      \item Through orthogonal projections onto $i$-th axis
-    \end{itemize}
-  \end{itemize}
-
-\end{frame}
-
- % === Ejemplo con minipage ===
- \usebackgroundtemplate{\includegraphics[width=\paperwidth]{fondo_blanco.jpg}}
- \begin{frame}
-   \frametitle{Ejemplo con minipage}
- 
-   \begin{minipage}{0.45\textwidth}
-    \centering
- 
- \begin{itemize}
-   \item Teorema de Pitágoras \medskip
-   \item Hipotenusa  \medskip
-   \item Catetos \medskip
-   \item Triángulo rectángulo \medskip
-   \begin{itemize}
-     \item Incluid espacios verticales \smallskip
-     \item Se ha quitado la marca de agua
-   \end{itemize}
- \end{itemize}
- 
-   \end{minipage}
-   \hfill
-   \begin{minipage}{0.45\textwidth}
-    \centering
-      \includegraphics[clip=true,width=\textwidth]{triangulos_separados_bb.pdf}\\
-   \end{minipage}
- 
- \end{frame}
- 
- % Restablecer la marca de agua
- \usebackgroundtemplate{\includegraphics[width=\paperwidth]{logoURJC_marca_agua_U.jpg}}
- % === Fin Ejemplo con minipage ===
-
-
 \end{document}
 
 
-
-  %\begin{itemize}
-  %  \item Instrument \smallskip
-  %  \item InstrumentName \smallskip
-  %  \item NotePlayer \smallskip
-  %  \item VariantExercise \smallskip
-  %  \item Answer \smallskip
-  %  \item SelectableAnswer \smallskip
-  %  \item SelectableAnswerWithColor \bigskip
-  %\end{itemize}
+% ==================== Hooks y Context ========================
 
   % \subsection{Hooks y Context}
 % \begin{frame}
@@ -583,3 +568,54 @@
 %     \item \textbf{EarfitContex.tsx}: Se encarga de la lógica relacionada a los instrumentos.\bigskip
 %   \end{itemize}
 % \end{frame}
+
+
+
+
+% % ==================== Ejemplos Latex========================
+% \begin{frame}
+%   \frametitle{Ejemplo con colores}
+
+%   \begin{itemize}
+%     \item $\mathbf{x}$: Data sample \smallskip
+%     \item $\mathbf{p}$: Low-dimensional representation of $\mathbf{x}$  \smallskip
+%     \item $\hat{\mathbf{x}} = \mathbf{V}\mathbf{p}$: Estimates of $\mathbf{x}$ \smallskip
+%     \item $\hat{x}_{i} = \mathbf{v}_{i}^{\traspuesta}\mathbf{p}$: Estimate of $\mathbf{x}$ for the $i$-th attribute \smallskip
+%     \begin{itemize}
+%       \item Through orthogonal projections onto $i$-th axis
+%     \end{itemize}
+%   \end{itemize}
+
+% \end{frame}
+
+%  % === Ejemplo con minipage ===
+%  \usebackgroundtemplate{\includegraphics[width=\paperwidth]{fondo_blanco.jpg}}
+%  \begin{frame}
+%    \frametitle{Ejemplo con minipage}
+ 
+%    \begin{minipage}{0.45\textwidth}
+%     \centering
+ 
+%  \begin{itemize}
+%    \item Teorema de Pitágoras \medskip
+%    \item Hipotenusa  \medskip
+%    \item Catetos \medskip
+%    \item Triángulo rectángulo \medskip
+%    \begin{itemize}
+%      \item Incluid espacios verticales \smallskip
+%      \item Se ha quitado la marca de agua
+%    \end{itemize}
+%  \end{itemize}
+ 
+%    \end{minipage}
+%    \hfill
+%    \begin{minipage}{0.45\textwidth}
+%     \centering
+%       \includegraphics[clip=true,width=\textwidth]{triangulos_separados_bb.pdf}\\
+%    \end{minipage}
+ 
+%  \end{frame}
+ 
+%  % Restablecer la marca de agua
+%  \usebackgroundtemplate{\includegraphics[width=\paperwidth]{logoURJC_marca_agua_U.jpg}}
+%  % === Fin Ejemplo con minipage ===
