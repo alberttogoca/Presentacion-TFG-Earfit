@@ -2,14 +2,14 @@
 \beamer@sectionintoc {2}{Introducción}{3}{0}{1}
 \beamer@sectionintoc {3}{Metodologías}{6}{0}{2}
 \beamer@subsectionintoc {3}{1}{Design Thinking}{7}{0}{2}
-\beamer@subsectionintoc {3}{2}{Lean Startup}{13}{0}{2}
-\beamer@subsectionintoc {3}{3}{Scrum}{14}{0}{2}
-\beamer@subsectionintoc {3}{4}{DevOps}{19}{0}{2}
-\beamer@sectionintoc {4}{Desarrollo}{22}{0}{3}
-\beamer@subsectionintoc {4}{1}{Tecnologías}{22}{0}{3}
-\beamer@subsectionintoc {4}{2}{Arquitectura}{23}{0}{3}
-\beamer@subsectionintoc {4}{3}{Estructura de Archivos}{24}{0}{3}
-\beamer@subsectionintoc {4}{4}{Detalles de Implementación}{25}{0}{3}
-\beamer@subsectionintoc {4}{5}{Progressive Web App}{33}{0}{3}
-\beamer@subsectionintoc {4}{6}{Software QA}{36}{0}{3}
-\beamer@sectionintoc {5}{Conclusiones}{38}{0}{4}
+\beamer@subsectionintoc {3}{2}{Lean Startup}{14}{0}{2}
+\beamer@subsectionintoc {3}{3}{Scrum}{15}{0}{2}
+\beamer@subsectionintoc {3}{4}{DevOps}{20}{0}{2}
+\beamer@sectionintoc {4}{Desarrollo}{23}{0}{3}
+\beamer@subsectionintoc {4}{1}{Tecnologías}{23}{0}{3}
+\beamer@subsectionintoc {4}{2}{Arquitectura}{24}{0}{3}
+\beamer@subsectionintoc {4}{3}{Estructura de Archivos}{25}{0}{3}
+\beamer@subsectionintoc {4}{4}{Detalles de Implementación}{26}{0}{3}
+\beamer@subsectionintoc {4}{5}{Progressive Web App}{34}{0}{3}
+\beamer@subsectionintoc {4}{6}{Software QA}{37}{0}{3}
+\beamer@sectionintoc {5}{Conclusiones}{39}{0}{4}
