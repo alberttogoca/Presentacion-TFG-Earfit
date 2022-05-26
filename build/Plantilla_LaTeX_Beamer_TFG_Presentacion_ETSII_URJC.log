@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.7)  26 MAY 2022 18:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.7)  26 MAY 2022 20:50
 entering extended mode
 **"c:/ALBERTO/3) UNIVERSITY/TFG/PRESENTACION/Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.tex"
 (c:/ALBERTO/3) UNIVERSITY/TFG/PRESENTACION/Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.tex
@@ -807,11 +807,11 @@ Package pdftex.def Info: icono_grado_informatica.png  used on input line 222.
  [5
 
 ]
-<assets/Design Thinking/LeanDesignAgile-small.png, id=416, 792.71156pt x 394.47375pt>
-File: assets/Design Thinking/LeanDesignAgile-small.png Graphic file (type png)
-<use assets/Design Thinking/LeanDesignAgile-small.png>
-Package pdftex.def Info: assets/Design Thinking/LeanDesignAgile-small.png  used on input line 231.
-(pdftex.def)             Requested size: 307.28987pt x 152.91718pt.
+<assets/LeanDesignAgile.png, id=416, 746.79pt x 401.5pt>
+File: assets/LeanDesignAgile.png Graphic file (type png)
+<use assets/LeanDesignAgile.png>
+Package pdftex.def Info: assets/LeanDesignAgile.png  used on input line 231.
+(pdftex.def)             Requested size: 307.28987pt x 165.21031pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
 Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 231.
@@ -822,7 +822,7 @@ Package pdftex.def Info: icono_grado_informatica.png  used on input line 231.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
  [6
 
- <./assets/Design Thinking/LeanDesignAgile-small.png>]
+ <./assets/LeanDesignAgile.png>]
 <assets/Design Thinking/Etapas.png, id=472, 636.12656pt x 290.58563pt>
 File: assets/Design Thinking/Etapas.png Graphic file (type png)
 <use assets/Design Thinking/Etapas.png>
@@ -1407,15 +1407,15 @@ Package rerunfilecheck Info: File `Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII
 (rerunfilecheck)             Checksum: 69CDE4DDBED5E315DA67F904D9516CDF;1515.
  ) 
 Here is how much of TeX's memory you used:
- 23496 strings out of 478927
- 454194 string characters out of 2852535
- 787735 words of memory out of 3000000
+ 23497 strings out of 478927
+ 453959 string characters out of 2852535
+ 787728 words of memory out of 3000000
  40683 multiletter control sequences out of 15000+600000
  409168 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,124p,499b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on "c:\ALBERTO\3) UNIVERSITY\TFG\PRESENTACION\build\Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.pdf" (42 pages, 3909980 bytes).
+Output written on "c:\ALBERTO\3) UNIVERSITY\TFG\PRESENTACION\build\Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.pdf" (42 pages, 3613135 bytes).
 PDF statistics:
  2460 PDF objects out of 2487 (max. 8388607)
  98 named destinations out of 1000 (max. 500000)
