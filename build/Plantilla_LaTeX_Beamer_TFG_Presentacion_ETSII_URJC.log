@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.7)  26 MAY 2022 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.7)  26 MAY 2022 18:59
 entering extended mode
 **"c:/ALBERTO/3) UNIVERSITY/TFG/PRESENTACION/Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.tex"
 (c:/ALBERTO/3) UNIVERSITY/TFG/PRESENTACION/Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.tex
@@ -1359,30 +1359,30 @@ Package pdftex.def Info: icono_grado_informatica.png  used on input line 539.
  [40
 
 ]
-<assets/Conclusiones/EarfitQR.png, id=2353, 338.76563pt x 425.33907pt>
-File: assets/Conclusiones/EarfitQR.png Graphic file (type png)
-<use assets/Conclusiones/EarfitQR.png>
-Package pdftex.def Info: assets/Conclusiones/EarfitQR.png  used on input line 546.
-(pdftex.def)             Requested size: 107.55333pt x 135.0404pt.
+<assets/Logos/Earfit2.png, id=2354, 386.19281pt x 532.23843pt>
+File: assets/Logos/Earfit2.png Graphic file (type png)
+<use assets/Logos/Earfit2.png>
+Package pdftex.def Info: assets/Logos/Earfit2.png  used on input line 548.
+(pdftex.def)             Requested size: 146.06206pt x 201.29439pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 546.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 548.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 546.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 548.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
  [41
 
- <./assets/Conclusiones/EarfitQR.png>]
+ <./assets/Logos/Earfit2.png>]
 File: logo_ETSII_estrecho.jpg Graphic file (type jpg)
 <use logo_ETSII_estrecho.jpg>
-Package pdftex.def Info: logo_ETSII_estrecho.jpg  used on input line 576.
+Package pdftex.def Info: logo_ETSII_estrecho.jpg  used on input line 583.
 (pdftex.def)             Requested size: 124.1145pt x 28.45274pt.
-<fondo_blanco.jpg, id=2409, 693.18127pt x 387.81506pt>
+<fondo_blanco.jpg, id=2408, 693.18127pt x 387.81506pt>
 File: fondo_blanco.jpg Graphic file (type jpg)
 <use fondo_blanco.jpg>
-Package pdftex.def Info: fondo_blanco.jpg  used on input line 576.
+Package pdftex.def Info: fondo_blanco.jpg  used on input line 583.
 (pdftex.def)             Requested size: 364.19536pt x 203.75981pt.
  [42
 
@@ -1407,17 +1407,17 @@ Package rerunfilecheck Info: File `Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII
 (rerunfilecheck)             Checksum: 69CDE4DDBED5E315DA67F904D9516CDF;1515.
  ) 
 Here is how much of TeX's memory you used:
- 23499 strings out of 478927
- 454335 string characters out of 2852535
+ 23496 strings out of 478927
+ 454194 string characters out of 2852535
  787735 words of memory out of 3000000
  40683 multiletter control sequences out of 15000+600000
  409168 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,124p,499b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on "c:\ALBERTO\3) UNIVERSITY\TFG\PRESENTACION\build\Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.pdf" (42 pages, 3857566 bytes).
+Output written on "c:\ALBERTO\3) UNIVERSITY\TFG\PRESENTACION\build\Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.pdf" (42 pages, 3909980 bytes).
 PDF statistics:
- 2461 PDF objects out of 2487 (max. 8388607)
+ 2460 PDF objects out of 2487 (max. 8388607)
  98 named destinations out of 1000 (max. 500000)
- 847 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 841 words of extra memory for PDF output out of 10000 (max. 10000000)
 
