@@ -7,9 +7,7 @@
 \beamer@subsectionintoc {3}{4}{DevOps}{20}{0}{2}
 \beamer@sectionintoc {4}{Desarrollo}{23}{0}{3}
 \beamer@subsectionintoc {4}{1}{Tecnologías}{23}{0}{3}
-\beamer@subsectionintoc {4}{2}{Arquitectura}{24}{0}{3}
-\beamer@subsectionintoc {4}{3}{Estructura de Archivos}{25}{0}{3}
-\beamer@subsectionintoc {4}{4}{Detalles de Implementación}{26}{0}{3}
-\beamer@subsectionintoc {4}{5}{Progressive Web App}{34}{0}{3}
-\beamer@subsectionintoc {4}{6}{Software QA}{37}{0}{3}
-\beamer@sectionintoc {5}{Conclusiones}{39}{0}{4}
+\beamer@subsectionintoc {4}{2}{Detalles de Implementación}{24}{0}{3}
+\beamer@subsectionintoc {4}{3}{Progressive Web App}{35}{0}{3}
+\beamer@subsectionintoc {4}{4}{Software QA}{38}{0}{3}
+\beamer@sectionintoc {5}{Conclusiones}{40}{0}{4}

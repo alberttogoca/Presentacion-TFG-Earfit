@@ -195,7 +195,7 @@
 \begin{frame}
   \frametitle{Entrenamiento Auditivo}
 \begin{itemize}
-  \item Es el proceso de identificar y asociar los elementos musicales con la forma en que se siente el sonido físicamente. \bigskip
+  \item Es el proceso de identificar y asociar los elementos musicales con la forma en que se percibe el sonido. \bigskip
   \item Los músicos, productores y DJs pueden beneficiarse del entrenamiento auditivo. \bigskip
   \item Permite sacar canciones más rápido, con mayor precisión, improvisar mejor y llevar al instrumento las melodías que imagines con mayor facilidad. \bigskip
   \item Los ejercicios más comunes incluyen habilidades como identificar notas, intervalos, escalas... \bigskip
@@ -331,7 +331,7 @@
   \frametitle{Integración Continua (CI)}
   \framesubtitle{Git, GitHub y GitFlow}
   \centering
-  \includegraphics[clip=true,width=\textwidth]{DevOps/GitFlow}\\
+  \includegraphics[clip=true,width=\textwidth]{DevOps/GitFlow-contrast}\\
 \end{frame}
 \begin{frame}
   \frametitle{Despliegue Continuo (CD)}
@@ -362,15 +362,7 @@
   \end{itemize}
 \end{frame}
 
-\subsection{Arquitectura}
-\begin{frame}
-  \frametitle{Arquitectura}
-  \framesubtitle{Estructura, Funcionamiento e Interacción}
-  \centering
-  \includegraphics[clip=true,width=0.85\textwidth]{Detalles de Implementación/Arquitectura}\\
-\end{frame}
-
-\subsection{Estructura de Archivos}
+\subsection{Detalles de Implementación}
 \begin{frame}
   \frametitle{Estructura de Archivos} 
   \framesubtitle{Pages y Public son Directorios Especiales en Next.js}
@@ -378,20 +370,48 @@
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Estructura de Archivos/ArchivosConfig}\\
 \end{frame}
 
-\subsection{Detalles de Implementación}
 \begin{frame}
-  \frametitle{Tipos de TypeScript (1/2)}
-  \framesubtitle{Cada Instrumento tiene un NotePlayer para Reproducir Notas}
+  \frametitle{Arquitectura}
+  \framesubtitle{Estructura, Funcionamiento e Interacción}
   \centering
-  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Instrument}\\
-  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Noteplayer-small}\\
+  \includegraphics[clip=true,width=0.85\textwidth]{Detalles de Implementación/Arquitectura2}\\
 \end{frame}
 
 \begin{frame}
-  \frametitle{Tipos de TypeScript (2/2)}
-  \framesubtitle{Dependiendo de la Variante, las Respuestas tienen Notas, Intervalos o Escalas}
-  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/VariantExercise}\\
-  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Answer}\\
+  \frametitle{Jerarquía de Componentes}
+  \framesubtitle{Los Componentes Son Reutilizados entre Páginas}
+  \centering
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/JerarquíaComponentes}\\
+\end{frame}
+
+\begin{frame}
+  \frametitle{Hooks}
+  \framesubtitle{Los Custom Hooks Encapsulan la Lógica de Estado}
+  \begin{itemize}
+    \item \textbf{useExercise.tsx}: Establecer las respuestas para el ejercicio. \smallskip
+    \item \textbf{useAnswerToggles.tsx}: Añadir y quitar respuestas a la pregunta. \smallskip
+    \item \textbf{useAnswerButtons.tsx}: La lógica de los botones de respuesta. \smallskip
+    \item \textbf{useAnswer.tsx}: Calcular la respuesta a preguntar. \smallskip
+    \item \textbf{usePlayButton.tsx}: Reproducir la respuesta. \bigskip
+    \item \textbf{EarfitContext.tsx}: Establecer y seleccionar los instrumentos. Se usa con el Hook useInstrumentContext().\bigskip
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Servicios}
+  \framesubtitle{Proveen los Datos a los Hooks y al Context}
+  \begin{itemize}
+    \item \textbf{instrumentService.ts}: Provee los instrumentos de la aplicación. \bigskip
+    \item \textbf{noteService.ts}: Provee las respuestas correspondientes al ejericio de notas. \bigskip
+    \item \textbf{intervalService.ts}: Provee las respuestas correspondientes al ejericio de intervalos. \bigskip
+    \item \textbf{scaleService.ts}: Provee las respuestas correspondientes al ejericio de escalas. \bigskip
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Comportamiento de una Página}
+  \framesubtitle{Interacción entre Componentes, Hooks y Servicios}
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Arquitectura1}\\
 \end{frame}
 
 \begin{frame}
@@ -409,37 +429,42 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Servicios}
-  \framesubtitle{Proveen los Datos y Alguna Lógica a los Hooks y Context}
-  \begin{itemize}
-    \item \textbf{instrumentService.ts}: Provee los instrumentos de la aplicación. \bigskip
-    \item \textbf{noteService.ts}: Provee las respuestas correspondientes al ejericio de notas. \bigskip
-    \item \textbf{intervalService.ts}: Provee las respuestas correspondientes al ejericio de intervalos. \bigskip
-    \item \textbf{scaleService.ts}: Provee las respuestas correspondientes al ejericio de escalas. \bigskip
-  \end{itemize}
-\end{frame}
-
-\begin{frame}
-  \frametitle{Jerarquía de Componentes}
-  \framesubtitle{Los Componentes Son Reutilizados entre Páginas}
+  \frametitle{Tipos de TypeScript}
+  \framesubtitle{Los Instrumentos y las Respuestas}
   \centering
-  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/JerarquíaComponentes}\\
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Instrument}\\
+  \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Answer}\\
 \end{frame}
 
+% \begin{frame}
+%   \frametitle{Tipos de TypeScript (1/2)}
+%   \framesubtitle{Cada Instrumento tiene un NotePlayer para Reproducir Notas}
+%   \centering
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Instrument}\\
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Noteplayer-small}\\
+% \end{frame}
+
+% \begin{frame}
+%   \frametitle{Tipos de TypeScript (2/2)}
+%   \framesubtitle{Dependiendo de la Variante, las Respuestas tienen Notas, Intervalos o Escalas}
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/VariantExercise}\\
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Answer}\\
+% \end{frame}
+
 \begin{frame}
-  \frametitle{Comportamiento de una Página (1/2)}
-  \framesubtitle{Los Custom Hooks Encapsulan la Lógica de Estado}
+  \frametitle{Ejemplo (1/3)}
+  \framesubtitle{Llamada a los Hooks Necesarios}
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Pages/Page1}\\
 \end{frame}
 
 \begin{frame}
-  \frametitle{Comportamiento de una Página (2/2)}
+  \frametitle{Ejemplo (2/3)}
   \framesubtitle{Los Componentes reciben Estados y Callbacks a Través de Props}
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Pages/Page2}\\
 \end{frame}
 
 \begin{frame}
-  \frametitle{Comportamiento de un Componente}
+  \frametitle{Ejemplo (3/3)}
   \framesubtitle{Los Componentes Actúan como Funciones Puras}
   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Components/Component}\\
 \end{frame}
@@ -502,7 +527,7 @@
     \begin{itemize}
       \item PWA que permite desarrollar el oído musical mediante entrenamiento auditivo. \bigskip
       \item Diferentes tipos de ejercicios personalizables. \bigskip
-      \item Varios instrumentos para prácticar con sus sonidos. \bigskip
+      \item Varios instrumentos para practicar con sus sonidos. \bigskip
       \item Buenas prácticas, gestión ágil y DevOps. \bigskip
     \end{itemize}
     \textbf{Trabajos Futuros}: \bigskip
@@ -577,7 +602,22 @@
 %   \end{itemize}
 % \end{frame}
 
+% ==================== Tipos de TypeScript ========================
 
+% \begin{frame}
+%   \frametitle{Tipos de TypeScript (1/2)}
+%   \framesubtitle{Cada Instrumento tiene un NotePlayer para Reproducir Notas}
+%   \centering
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Instrument}\\
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Noteplayer-small}\\
+% \end{frame}
+
+% \begin{frame}
+%   \frametitle{Tipos de TypeScript (2/2)}
+%   \framesubtitle{Dependiendo de la Variante, las Respuestas tienen Notas, Intervalos o Escalas}
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/VariantExercise}\\
+%   \includegraphics[clip=true,width=\textwidth]{Detalles de Implementación/Code/Types/Answer}\\
+% \end{frame}
 
 
 % % ==================== Ejemplos Latex========================

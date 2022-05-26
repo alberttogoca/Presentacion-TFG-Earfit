@@ -1621,12 +1621,12 @@ INPUT .\icono_grado_informatica.png
 INPUT .\icono_grado_informatica.png
 INPUT icono_grado_informatica.png
 INPUT .\icono_grado_informatica.png
-INPUT .\assets\DevOps\GitFlow.png
-INPUT assets\DevOps\GitFlow.png
-INPUT .\assets\DevOps\GitFlow.png
-INPUT .\assets\DevOps\GitFlow.png
-INPUT .\assets\DevOps\GitFlow.png
-INPUT .\assets\DevOps\GitFlow.png
+INPUT .\assets\DevOps\GitFlow-contrast.png
+INPUT assets\DevOps\GitFlow-contrast.png
+INPUT .\assets\DevOps\GitFlow-contrast.png
+INPUT .\assets\DevOps\GitFlow-contrast.png
+INPUT .\assets\DevOps\GitFlow-contrast.png
+INPUT .\assets\DevOps\GitFlow-contrast.png
 INPUT .\logoURJC_marca_agua_U.jpg
 INPUT .\logoURJC_marca_agua_U.jpg
 INPUT logoURJC_marca_agua_U.jpg
@@ -1663,20 +1663,6 @@ INPUT .\icono_grado_informatica.png
 INPUT .\icono_grado_informatica.png
 INPUT icono_grado_informatica.png
 INPUT .\icono_grado_informatica.png
-INPUT .\assets\Detalles de Implementación\Arquitectura.jpg
-INPUT assets\Detalles de Implementación\Arquitectura.jpg
-INPUT .\assets\Detalles de Implementación\Arquitectura.jpg
-INPUT .\assets\Detalles de Implementación\Arquitectura.jpg
-INPUT .\assets\Detalles de Implementación\Arquitectura.jpg
-INPUT .\assets\Detalles de Implementación\Arquitectura.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
-INPUT icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
 INPUT .\assets\Detalles de Implementación\Estructura de Archivos\ArchivosConfig.png
 INPUT assets\Detalles de Implementación\Estructura de Archivos\ArchivosConfig.png
 INPUT .\assets\Detalles de Implementación\Estructura de Archivos\ArchivosConfig.png
@@ -1691,54 +1677,12 @@ INPUT .\icono_grado_informatica.png
 INPUT .\icono_grado_informatica.png
 INPUT icono_grado_informatica.png
 INPUT .\icono_grado_informatica.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
-INPUT assets\Detalles de Implementación\Code\Types\Instrument.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Noteplayer-small.png
-INPUT assets\Detalles de Implementación\Code\Types\Noteplayer-small.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Noteplayer-small.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Noteplayer-small.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Noteplayer-small.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Noteplayer-small.png
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
-INPUT icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
-INPUT .\assets\Detalles de Implementación\Code\Types\VariantExercise.png
-INPUT assets\Detalles de Implementación\Code\Types\VariantExercise.png
-INPUT .\assets\Detalles de Implementación\Code\Types\VariantExercise.png
-INPUT .\assets\Detalles de Implementación\Code\Types\VariantExercise.png
-INPUT .\assets\Detalles de Implementación\Code\Types\VariantExercise.png
-INPUT .\assets\Detalles de Implementación\Code\Types\VariantExercise.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
-INPUT assets\Detalles de Implementación\Code\Types\Answer.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
-INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
-INPUT icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT logoURJC_marca_agua_U.jpg
-INPUT .\logoURJC_marca_agua_U.jpg
-INPUT .\icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
-INPUT icono_grado_informatica.png
-INPUT .\icono_grado_informatica.png
+INPUT .\assets\Detalles de Implementación\Arquitectura2.jpg
+INPUT assets\Detalles de Implementación\Arquitectura2.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura2.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura2.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura2.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura2.jpg
 INPUT .\logoURJC_marca_agua_U.jpg
 INPUT .\logoURJC_marca_agua_U.jpg
 INPUT logoURJC_marca_agua_U.jpg
@@ -1753,6 +1697,64 @@ INPUT .\assets\Detalles de Implementación\JerarquíaComponentes.jpg
 INPUT .\assets\Detalles de Implementación\JerarquíaComponentes.jpg
 INPUT .\assets\Detalles de Implementación\JerarquíaComponentes.jpg
 INPUT .\assets\Detalles de Implementación\JerarquíaComponentes.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT .\assets\Detalles de Implementación\Arquitectura1.jpg
+INPUT assets\Detalles de Implementación\Arquitectura1.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura1.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura1.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura1.jpg
+INPUT .\assets\Detalles de Implementación\Arquitectura1.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT logoURJC_marca_agua_U.jpg
+INPUT .\logoURJC_marca_agua_U.jpg
+INPUT .\icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT icono_grado_informatica.png
+INPUT .\icono_grado_informatica.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
+INPUT assets\Detalles de Implementación\Code\Types\Instrument.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Instrument.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
+INPUT assets\Detalles de Implementación\Code\Types\Answer.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
+INPUT .\assets\Detalles de Implementación\Code\Types\Answer.png
 INPUT .\logoURJC_marca_agua_U.jpg
 INPUT .\logoURJC_marca_agua_U.jpg
 INPUT logoURJC_marca_agua_U.jpg
