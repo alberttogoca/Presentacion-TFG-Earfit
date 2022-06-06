@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.7)  26 MAY 2022 20:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.7)  6 JUN 2022 18:58
 entering extended mode
 **"c:/ALBERTO/3) UNIVERSITY/TFG/PRESENTACION/Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.tex"
 (c:/ALBERTO/3) UNIVERSITY/TFG/PRESENTACION/Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.tex
@@ -750,7 +750,7 @@ LaTeX Info: Redefining \% on input line 156.
 LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 156.
 
-<logo_ETSII_estrecho.jpg, id=133, 3613.5pt x 828.09375pt>
+<logo_ETSII_estrecho.jpg, id=110, 3613.5pt x 828.09375pt>
 File: logo_ETSII_estrecho.jpg Graphic file (type jpg)
 <use logo_ETSII_estrecho.jpg>
 Package pdftex.def Info: logo_ETSII_estrecho.jpg  used on input line 161.
@@ -761,12 +761,12 @@ Package pdftex.def Info: logo_ETSII_estrecho.jpg  used on input line 161.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
-<logoURJC_marca_agua_U.jpg, id=160, 1071.83536pt x 754.2545pt>
+<logoURJC_marca_agua_U.jpg, id=137, 1071.83536pt x 754.2545pt>
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
 Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 181.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-<icono_grado_informatica.png, id=161, 397.87355pt x 397.87355pt>
+<icono_grado_informatica.png, id=138, 397.87355pt x 397.87355pt>
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
 Package pdftex.def Info: icono_grado_informatica.png  used on input line 181.
@@ -776,318 +776,67 @@ Package pdftex.def Info: icono_grado_informatica.png  used on input line 181.
  <./icono_grado_informatica.png> <./logoURJC_marca_agua_U.jpg>]
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 193.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 204.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 193.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 204.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
  [3
 
 ]
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 203.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 223.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 203.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 223.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
  [4
 
 ]
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 222.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 222.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [5
-
-]
-<assets/LeanDesignAgile.png, id=416, 746.79pt x 401.5pt>
+<assets/LeanDesignAgile.png, id=249, 746.79pt x 401.5pt>
 File: assets/LeanDesignAgile.png Graphic file (type png)
 <use assets/LeanDesignAgile.png>
-Package pdftex.def Info: assets/LeanDesignAgile.png  used on input line 231.
+Package pdftex.def Info: assets/LeanDesignAgile.png  used on input line 238.
 (pdftex.def)             Requested size: 307.28987pt x 165.21031pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 231.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 238.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 231.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 238.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [6
+ [5
 
  <./assets/LeanDesignAgile.png>]
-<assets/Design Thinking/Etapas.png, id=472, 636.12656pt x 290.58563pt>
-File: assets/Design Thinking/Etapas.png Graphic file (type png)
-<use assets/Design Thinking/Etapas.png>
-Package pdftex.def Info: assets/Design Thinking/Etapas.png  used on input line 239.
-(pdftex.def)             Requested size: 307.28987pt x 140.37074pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 239.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 239.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [7
+<assets/Scrum/Scrum.png, id=282, 1044.90375pt x 621.07031pt>
+File: assets/Scrum/Scrum.png Graphic file (type png)
+<use assets/Scrum/Scrum.png>
+Package pdftex.def Info: assets/Scrum/Scrum.png  used on input line 301.
+(pdftex.def)             Requested size: 307.28987pt x 182.64554pt.
 
- <./assets/Design Thinking/Etapas.png>]
-<assets/Design Thinking/MindMap.jpg, id=529, 648.17157pt x 662.475pt>
-File: assets/Design Thinking/MindMap.jpg Graphic file (type jpg)
-<use assets/Design Thinking/MindMap.jpg>
-Package pdftex.def Info: assets/Design Thinking/MindMap.jpg  used on input line 245.
-(pdftex.def)             Requested size: 199.73653pt x 204.142pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 245.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 245.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [8
-
- <./assets/Design Thinking/MindMap.jpg>]
-<assets/Design Thinking/MindMap2.jpg, id=584, 648.17157pt x 331.2375pt>
-File: assets/Design Thinking/MindMap2.jpg Graphic file (type jpg)
-<use assets/Design Thinking/MindMap2.jpg>
-Package pdftex.def Info: assets/Design Thinking/MindMap2.jpg  used on input line 251.
-(pdftex.def)             Requested size: 307.28987pt x 157.03618pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 251.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 251.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [9
-
- <./assets/Design Thinking/MindMap2.jpg>]
-<assets/Design Thinking/MosCow.jpg, id=639, 1045.9075pt x 962.59625pt>
-File: assets/Design Thinking/MosCow.jpg Graphic file (type jpg)
-<use assets/Design Thinking/MosCow.jpg>
-Package pdftex.def Info: assets/Design Thinking/MosCow.jpg  used on input line 257.
-(pdftex.def)             Requested size: 224.32028pt x 206.45476pt.
-
-Overfull \vbox (2.3789pt too high) detected at line 257
+Overfull \vbox (3.9739pt too high) detected at line 301
  []
 
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 257.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 301.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 257.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 301.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
-[10
-
- <./assets/Design Thinking/MosCow.jpg>]
-<assets/Design Thinking/MosCow2.jpg, id=694, 784.43062pt x 380.17032pt>
-File: assets/Design Thinking/MosCow2.jpg Graphic file (type jpg)
-<use assets/Design Thinking/MosCow2.jpg>
-Package pdftex.def Info: assets/Design Thinking/MosCow2.jpg  used on input line 263.
-(pdftex.def)             Requested size: 307.28987pt x 148.92712pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 263.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 263.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [11
-
- <./assets/Design Thinking/MosCow2.jpg>]
-<assets/Design Thinking/Prototipo/Prototipos.jpg, id=749, 2164.085pt x 1046.91125pt>
-File: assets/Design Thinking/Prototipo/Prototipos.jpg Graphic file (type jpg)
-<use assets/Design Thinking/Prototipo/Prototipos.jpg>
-Package pdftex.def Info: assets/Design Thinking/Prototipo/Prototipos.jpg  used on input line 269.
-(pdftex.def)             Requested size: 307.28987pt x 148.64326pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 269.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 269.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [12
-
- <./assets/Design Thinking/Prototipo/Prototipos.jpg>]
-<assets/Design Thinking/Prototipo/Small/Prototipo1.jpg, id=804, 1324.95pt x 759.83875pt>
-File: assets/Design Thinking/Prototipo/Small/Prototipo1.jpg Graphic file (type jpg)
-<use assets/Design Thinking/Prototipo/Small/Prototipo1.jpg>
-Package pdftex.def Info: assets/Design Thinking/Prototipo/Small/Prototipo1.jpg  used on input line 275.
-(pdftex.def)             Requested size: 307.28987pt x 176.2201pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 275.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 275.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [13
-
- <./assets/Design Thinking/Prototipo/Small/Prototipo1.jpg>]
-<assets/Lean Startup/CircuitoFeedback.png, id=860, 878.28125pt x 702.625pt>
-File: assets/Lean Startup/CircuitoFeedback.png Graphic file (type png)
-<use assets/Lean Startup/CircuitoFeedback.png>
-Package pdftex.def Info: assets/Lean Startup/CircuitoFeedback.png  used on input line 283.
-(pdftex.def)             Requested size: 245.83282pt x 196.6586pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 283.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 283.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [14
-
- <./assets/Lean Startup/CircuitoFeedback.png (PNG copy)>]
-<assets/Scrum/Scrum.png, id=915, 1044.90375pt x 621.07031pt>
-File: assets/Scrum/Scrum.png Graphic file (type png)
-<use assets/Scrum/Scrum.png>
-Package pdftex.def Info: assets/Scrum/Scrum.png  used on input line 291.
-(pdftex.def)             Requested size: 307.28987pt x 182.64554pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 291.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 291.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [15
+[6
 
  <./assets/Scrum/Scrum.png>]
-<assets/Scrum/UserStoryMap.jpg, id=971, 1844.39063pt x 733.23938pt>
-File: assets/Scrum/UserStoryMap.jpg Graphic file (type jpg)
-<use assets/Scrum/UserStoryMap.jpg>
-Package pdftex.def Info: assets/Scrum/UserStoryMap.jpg  used on input line 297.
-(pdftex.def)             Requested size: 307.28987pt x 122.15405pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 297.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 297.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [16
-
- <./assets/Scrum/UserStoryMap.jpg>]
-<assets/Scrum/UserStoryMap11.jpg, id=1026, 2071.74pt x 1093.08376pt>
-File: assets/Scrum/UserStoryMap11.jpg Graphic file (type jpg)
-<use assets/Scrum/UserStoryMap11.jpg>
-Package pdftex.def Info: assets/Scrum/UserStoryMap11.jpg  used on input line 303.
-(pdftex.def)             Requested size: 307.28987pt x 162.12079pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 303.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 303.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [17
-
- <./assets/Scrum/UserStoryMap11.jpg>]
-<assets/Scrum/ScrumBoard1.png, id=1081, 834.86906pt x 509.65407pt>
-File: assets/Scrum/ScrumBoard1.png Graphic file (type png)
-<use assets/Scrum/ScrumBoard1.png>
-Package pdftex.def Info: assets/Scrum/ScrumBoard1.png  used on input line 309.
-(pdftex.def)             Requested size: 307.28987pt x 187.58919pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 309.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 309.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [18
-
- <./assets/Scrum/ScrumBoard1.png>]
-<assets/Scrum/UserStory-small.png, id=1137, 661.72218pt x 316.18124pt>
-File: assets/Scrum/UserStory-small.png Graphic file (type png)
-<use assets/Scrum/UserStory-small.png>
-Package pdftex.def Info: assets/Scrum/UserStory-small.png  used on input line 315.
-(pdftex.def)             Requested size: 307.28987pt x 146.82495pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 315.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 315.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [19
-
- <./assets/Scrum/UserStory-small.png>]
-<assets/DevOps/DevOps.png, id=1194, 1204.5pt x 559.08875pt>
-File: assets/DevOps/DevOps.png Graphic file (type png)
-<use assets/DevOps/DevOps.png>
-Package pdftex.def Info: assets/DevOps/DevOps.png  used on input line 329.
-(pdftex.def)             Requested size: 307.28987pt x 142.62971pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 329.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 329.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [20
-
- <./assets/DevOps/DevOps.png>]
-<assets/DevOps/GitFlow-contrast.png, id=1250, 526.96875pt x 290.58563pt>
-File: assets/DevOps/GitFlow-contrast.png Graphic file (type png)
-<use assets/DevOps/GitFlow-contrast.png>
-Package pdftex.def Info: assets/DevOps/GitFlow-contrast.png  used on input line 335.
-(pdftex.def)             Requested size: 307.28987pt x 169.45761pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 335.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 335.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [21
-
- <./assets/DevOps/GitFlow-contrast.png>]
-<assets/DevOps/DPS.png, id=1305, 1138.2525pt x 925.4575pt>
+<assets/DevOps/DPS.png, id=315, 1138.2525pt x 925.4575pt>
 File: assets/DevOps/DPS.png Graphic file (type png)
 <use assets/DevOps/DPS.png>
-Package pdftex.def Info: assets/DevOps/DPS.png  used on input line 341.
-(pdftex.def)             Requested size: 245.83282pt x 199.87325pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 341.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 341.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [22
-
- <./assets/DevOps/DPS.png>]
-<assets/Logos/Logos-small.png, id=1361, 1940.75063pt x 400.49625pt>
-File: assets/Logos/Logos-small.png Graphic file (type png)
-<use assets/Logos/Logos-small.png>
-Package pdftex.def Info: assets/Logos/Logos-small.png  used on input line 363.
-(pdftex.def)             Requested size: 245.83282pt x 50.72801pt.
+Package pdftex.def Info: assets/DevOps/DPS.png  used on input line 363.
+(pdftex.def)             Requested size: 184.3758pt x 149.89787pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
 Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 363.
@@ -1096,295 +845,178 @@ File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
 Package pdftex.def Info: icono_grado_informatica.png  used on input line 363.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [23
+ [7
 
- <./assets/Logos/Logos-small.png>]
-<assets/Detalles de Implementación/Estructura de Archivos/ArchivosConfig.png, id=1417, 549.55313pt x 298.86656pt>
-File: assets/Detalles de Implementación/Estructura de Archivos/ArchivosConfig.png Graphic file (type png)
-<use assets/Detalles de Implementación/Estructura de Archivos/ArchivosConfig.png>
-Package pdftex.def Info: assets/Detalles de Implementación/Estructura de Archivos/ArchivosConfig.png  used on input line 371.
-(pdftex.def)             Requested size: 307.28987pt x 167.11786pt.
+ <./assets/DevOps/DPS.png>]
+<assets/Logos/Logos-small.png, id=349, 1940.75063pt x 400.49625pt>
+File: assets/Logos/Logos-small.png Graphic file (type png)
+<use assets/Logos/Logos-small.png>
+Package pdftex.def Info: assets/Logos/Logos-small.png  used on input line 397.
+(pdftex.def)             Requested size: 245.83282pt x 50.72801pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 371.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 397.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 371.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 397.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [24
+ [8
 
- <./assets/Detalles de Implementación/Estructura de Archivos/ArchivosConfig.png>]
-<assets/Detalles de Implementación/Arquitectura2.jpg, id=1473, 1808.7575pt x 1251.67625pt>
+ <./assets/Logos/Logos-small.png>]
+<assets/Detalles de Implementación/Arquitectura2.jpg, id=382, 1808.7575pt x 1251.67625pt>
 File: assets/Detalles de Implementación/Arquitectura2.jpg Graphic file (type jpg)
 <use assets/Detalles de Implementación/Arquitectura2.jpg>
-Package pdftex.def Info: assets/Detalles de Implementación/Arquitectura2.jpg  used on input line 378.
+Package pdftex.def Info: assets/Detalles de Implementación/Arquitectura2.jpg  used on input line 412.
 (pdftex.def)             Requested size: 261.19826pt x 180.734pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 378.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 412.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 378.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 412.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [25
+ [9
 
  <./assets/Detalles de Implementación/Arquitectura2.jpg>]
-<assets/Detalles de Implementación/JerarquíaComponentes.jpg, id=1529, 1410.26875pt x 713.66624pt>
+<assets/Detalles de Implementación/JerarquíaComponentes.jpg, id=414, 1410.26875pt x 713.66624pt>
 File: assets/Detalles de Implementación/JerarquíaComponentes.jpg Graphic file (type jpg)
 <use assets/Detalles de Implementación/JerarquíaComponentes.jpg>
-Package pdftex.def Info: assets/Detalles de Implementación/JerarquíaComponentes.jpg  used on input line 385.
+Package pdftex.def Info: assets/Detalles de Implementación/JerarquíaComponentes.jpg  used on input line 419.
 (pdftex.def)             Requested size: 307.28987pt x 155.50427pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 385.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 419.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 385.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 419.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [26
+ [10
 
  <./assets/Detalles de Implementación/JerarquíaComponentes.jpg>]
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 398.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 432.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 398.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 432.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [27
+ [11
 
 ]
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 409.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 443.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 409.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 443.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [28
+ [12
 
 ]
-<assets/Detalles de Implementación/Arquitectura1.jpg, id=1688, 2154.0475pt x 1051.93pt>
+File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
+<use logoURJC_marca_agua_U.jpg>
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 459.
+(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
+File: icono_grado_informatica.png Graphic file (type png)
+<use icono_grado_informatica.png>
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 459.
+(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
+ [13
+
+]
+<assets/Detalles de Implementación/Arquitectura1.jpg, id=534, 2154.0475pt x 1051.93pt>
 File: assets/Detalles de Implementación/Arquitectura1.jpg Graphic file (type jpg)
 <use assets/Detalles de Implementación/Arquitectura1.jpg>
-Package pdftex.def Info: assets/Detalles de Implementación/Arquitectura1.jpg  used on input line 415.
+Package pdftex.def Info: assets/Detalles de Implementación/Arquitectura1.jpg  used on input line 465.
 (pdftex.def)             Requested size: 307.28987pt x 150.06209pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 415.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 465.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 415.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 465.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [29
+ [14
 
  <./assets/Detalles de Implementación/Arquitectura1.jpg>]
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 429.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 536.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 429.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 536.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [30
+ [15
 
 ]
-<assets/Detalles de Implementación/Code/Types/Instrument.png, id=1795, 531.48563pt x 159.59625pt>
-File: assets/Detalles de Implementación/Code/Types/Instrument.png Graphic file (type png)
-<use assets/Detalles de Implementación/Code/Types/Instrument.png>
-Package pdftex.def Info: assets/Detalles de Implementación/Code/Types/Instrument.png  used on input line 437.
-(pdftex.def)             Requested size: 307.28987pt x 92.27608pt.
-<assets/Detalles de Implementación/Code/Types/Answer.png, id=1797, 532.23843pt x 120.45pt>
-File: assets/Detalles de Implementación/Code/Types/Answer.png Graphic file (type png)
-<use assets/Detalles de Implementación/Code/Types/Answer.png>
-Package pdftex.def Info: assets/Detalles de Implementación/Code/Types/Answer.png  used on input line 437.
-(pdftex.def)             Requested size: 307.28987pt x 69.54308pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 437.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 437.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [31
-
- <./assets/Detalles de Implementación/Code/Types/Instrument.png> <./assets/Detalles de Implementación/Code/Types/Answer.png>]
-<assets/Detalles de Implementación/Code/Pages/Page1.png, id=1856, 530.73282pt x 262.73157pt>
-File: assets/Detalles de Implementación/Code/Pages/Page1.png Graphic file (type png)
-<use assets/Detalles de Implementación/Code/Pages/Page1.png>
-Package pdftex.def Info: assets/Detalles de Implementación/Code/Pages/Page1.png  used on input line 458.
-(pdftex.def)             Requested size: 307.28987pt x 152.11981pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 458.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 458.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [32
-
- <./assets/Detalles de Implementación/Code/Pages/Page1.png>]
-<assets/Detalles de Implementación/Code/Pages/Page2.png, id=1912, 530.73282pt x 374.90062pt>
-File: assets/Detalles de Implementación/Code/Pages/Page2.png Graphic file (type png)
-<use assets/Detalles de Implementación/Code/Pages/Page2.png>
-Package pdftex.def Info: assets/Detalles de Implementación/Code/Pages/Page2.png  used on input line 464.
-(pdftex.def)             Requested size: 307.28987pt x 217.06496pt.
-
-Overfull \vbox (12.9891pt too high) detected at line 464
- []
-
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 464.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 464.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
-[33
-
- <./assets/Detalles de Implementación/Code/Pages/Page2.png>]
-<assets/Detalles de Implementación/Code/Components/Component.png, id=1968, 807.015pt x 597.73312pt>
-File: assets/Detalles de Implementación/Code/Components/Component.png Graphic file (type png)
-<use assets/Detalles de Implementación/Code/Components/Component.png>
-Package pdftex.def Info: assets/Detalles de Implementación/Code/Components/Component.png  used on input line 470.
-(pdftex.def)             Requested size: 307.28987pt x 227.59697pt.
-
-Overfull \vbox (23.52112pt too high) detected at line 470
- []
-
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 470.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 470.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
-[34
-
- <./assets/Detalles de Implementación/Code/Components/Component.png>]
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 483.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 483.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [35
-
-]
-<assets/Detalles de Implementación/PWA/InstalarPWA.png, id=2076, 283.0575pt x 218.31563pt>
-File: assets/Detalles de Implementación/PWA/InstalarPWA.png Graphic file (type png)
-<use assets/Detalles de Implementación/PWA/InstalarPWA.png>
-Package pdftex.def Info: assets/Detalles de Implementación/PWA/InstalarPWA.png  used on input line 491.
-(pdftex.def)             Requested size: 153.64493pt x 118.50494pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 491.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 491.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [36
-
- <./assets/Detalles de Implementación/PWA/InstalarPWA.png>]
-<assets/Capturas Earfit/PC/Intervals.png, id=2132, 1397.22pt x 890.32625pt>
-File: assets/Capturas Earfit/PC/Intervals.png Graphic file (type png)
-<use assets/Capturas Earfit/PC/Intervals.png>
-Package pdftex.def Info: assets/Capturas Earfit/PC/Intervals.png  used on input line 497.
-(pdftex.def)             Requested size: 307.28987pt x 195.80444pt.
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 497.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 497.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [37
-
- <./assets/Capturas Earfit/PC/Intervals.png>]
-<assets/Lighthouse/Resumen.png, id=2189, 983.92593pt x 185.94469pt>
+<assets/Lighthouse/Resumen.png, id=595, 983.92593pt x 185.94469pt>
 File: assets/Lighthouse/Resumen.png Graphic file (type png)
 <use assets/Lighthouse/Resumen.png>
-Package pdftex.def Info: assets/Lighthouse/Resumen.png  used on input line 513.
+Package pdftex.def Info: assets/Lighthouse/Resumen.png  used on input line 571.
 (pdftex.def)             Requested size: 307.28987pt x 58.07068pt.
+<assets/Vercel/VercelAnalytics-small.png, id=597, 766.36313pt x 109.1578pt>
+File: assets/Vercel/VercelAnalytics-small.png Graphic file (type png)
+<use assets/Vercel/VercelAnalytics-small.png>
+Package pdftex.def Info: assets/Vercel/VercelAnalytics-small.png  used on input line 571.
+(pdftex.def)             Requested size: 307.28987pt x 43.76894pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 513.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 571.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 513.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 571.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [38
+ [16
 
- <./assets/Lighthouse/Resumen.png>]
-<assets/Vercel/VercelAnalytics.png, id=2245, 766.36313pt x 459.96844pt>
-File: assets/Vercel/VercelAnalytics.png Graphic file (type png)
-<use assets/Vercel/VercelAnalytics.png>
-Package pdftex.def Info: assets/Vercel/VercelAnalytics.png  used on input line 519.
-(pdftex.def)             Requested size: 307.28987pt x 184.4333pt.
+ <./assets/Lighthouse/Resumen.png> <./assets/Vercel/VercelAnalytics-small.png>]
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 519.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 598.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 519.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 598.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [39
-
- <./assets/Vercel/VercelAnalytics.png>]
-File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
-<use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 539.
-(pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
-File: icono_grado_informatica.png Graphic file (type png)
-<use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 539.
-(pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [40
+ [17
 
 ]
-<assets/Logos/Earfit2.png, id=2354, 386.19281pt x 532.23843pt>
-File: assets/Logos/Earfit2.png Graphic file (type png)
-<use assets/Logos/Earfit2.png>
-Package pdftex.def Info: assets/Logos/Earfit2.png  used on input line 548.
-(pdftex.def)             Requested size: 146.06206pt x 201.29439pt.
+
+Package multimedia Warning: The movie file ``Demo Earfit.mp4'' could not be found in the current directory, where it must reside for viewing. on input line 609.
+
+<assets/Logos/Earfit2-play.png, id=661, 514.92375pt x 709.65125pt>
+File: assets/Logos/Earfit2-play.png Graphic file (type png)
+<use assets/Logos/Earfit2-play.png>
+Package pdftex.def Info: assets/Logos/Earfit2-play.png  used on input line 609.
+(pdftex.def)             Requested size: 121.71715pt x 167.74261pt.
 File: logoURJC_marca_agua_U.jpg Graphic file (type jpg)
 <use logoURJC_marca_agua_U.jpg>
-Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 548.
+Package pdftex.def Info: logoURJC_marca_agua_U.jpg  used on input line 609.
 (pdftex.def)             Requested size: 364.19536pt x 256.28201pt.
 File: icono_grado_informatica.png Graphic file (type png)
 <use icono_grado_informatica.png>
-Package pdftex.def Info: icono_grado_informatica.png  used on input line 548.
+Package pdftex.def Info: icono_grado_informatica.png  used on input line 609.
 (pdftex.def)             Requested size: 14.22447pt x 14.22636pt.
- [41
+[18
 
- <./assets/Logos/Earfit2.png>]
+ <./assets/Logos/Earfit2-play.png>]
 File: logo_ETSII_estrecho.jpg Graphic file (type jpg)
 <use logo_ETSII_estrecho.jpg>
-Package pdftex.def Info: logo_ETSII_estrecho.jpg  used on input line 583.
+Package pdftex.def Info: logo_ETSII_estrecho.jpg  used on input line 639.
 (pdftex.def)             Requested size: 124.1145pt x 28.45274pt.
-<fondo_blanco.jpg, id=2408, 693.18127pt x 387.81506pt>
+<fondo_blanco.jpg, id=694, 693.18127pt x 387.81506pt>
 File: fondo_blanco.jpg Graphic file (type jpg)
 <use fondo_blanco.jpg>
-Package pdftex.def Info: fondo_blanco.jpg  used on input line 583.
+Package pdftex.def Info: fondo_blanco.jpg  used on input line 639.
 (pdftex.def)             Requested size: 364.19536pt x 203.75981pt.
- [42
+ [19
 
  <./fondo_blanco.jpg>]
 \tf@nav=\write6
@@ -1404,20 +1036,20 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.out' has not changed.
-(rerunfilecheck)             Checksum: 69CDE4DDBED5E315DA67F904D9516CDF;1515.
+(rerunfilecheck)             Checksum: 26D838D57FB503B0957EC203D6826130;1510.
  ) 
 Here is how much of TeX's memory you used:
- 23497 strings out of 478927
- 453959 string characters out of 2852535
- 787728 words of memory out of 3000000
- 40683 multiletter control sequences out of 15000+600000
+ 23100 strings out of 478927
+ 440392 string characters out of 2852535
+ 758184 words of memory out of 3000000
+ 40382 multiletter control sequences out of 15000+600000
  409168 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,124p,499b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on "c:\ALBERTO\3) UNIVERSITY\TFG\PRESENTACION\build\Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.pdf" (42 pages, 3613135 bytes).
+Output written on "c:\ALBERTO\3) UNIVERSITY\TFG\PRESENTACION\build\Plantilla_LaTeX_Beamer_TFG_Presentacion_ETSII_URJC.pdf" (19 pages, 1221564 bytes).
 PDF statistics:
- 2460 PDF objects out of 2487 (max. 8388607)
- 98 named destinations out of 1000 (max. 500000)
- 841 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 736 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 461 words of extra memory for PDF output out of 10000 (max. 10000000)
 
